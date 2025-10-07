@@ -15,7 +15,7 @@ searchInput.addEventListener("input", (e) => {
 })
 
 //Because I don't want to use packages, and in browser js doesn't have access to the names of files within folders, we will do it the manual way... sigh
-const m_and_b = ["OPS 23-3 extra vragen.json", "OPS Final Test Database 24-2.json"]
+const m_and_b = ["OPS 23-3 extra vragen.json", "OPS Final Test Database 24-2.json", "Final test 23-1.json"]
 
 m_and_b.forEach((filename) => populateQuestions(filename))
 
