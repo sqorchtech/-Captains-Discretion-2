@@ -21,7 +21,7 @@ m_and_b.forEach((filename) => populateQuestions(filename))
 
 function populateQuestions(filename) 
 {
-    fetch(`jsons/FlightPlanning/${filename}`)
+    fetch(`jsons/Flightplanning/${filename}`)
     .then(res => res.json())
     .then(data => {
         questions.push( data.questions.map(question => {
