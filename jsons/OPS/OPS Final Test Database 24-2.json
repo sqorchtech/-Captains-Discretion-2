@@ -1,0 +1,1455 @@
+{
+    "uuid": "ffce6b73-e17c-4252-a827-f4e3752e0f2c",
+    "title": "OPS Final Test Database 24-2",
+    "questions": [
+        {
+            "uuid": "4dc08b86-f96a-7961-3261-4dc853800444",
+            "query": "<p>NOTOC stands for</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Notification  to Crew",
+                    "format": "html"
+                },
+                {
+                    "text": "Notification to Commander",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "Notification to Flight Crew",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a933b7a0-0fea-d470-1ea3-89d55ebc5e6a",
+            "query": "<p>An Adequate aerodrome must have</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "must be avaiable for the duration of the complete flight",
+                    "format": "html"
+                },
+                {
+                    "text": "must have an instrument approach procedure",
+                    "format": "html"
+                },
+                {
+                    "text": "must be equipped with the necessary ancillary services",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "must have sufficient hotel accomodations",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "46122e33-6f06-a85f-fe72-7e3bbedb279b",
+            "query": "<p>Which of the following are accurate statements about the NAT OTS?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "A Westbound flow leaves Europe in the evening",
+                    "format": "html"
+                },
+                {
+                    "text": "A Eastbound flow leaves North Amerika in the evening",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "An aircraft must use the NAT OTS when crossing the Atlantic",
+                    "format": "html"
+                },
+                {
+                    "text": "OTS tracks are great circle tracks",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7fa6f703-8a74-f8b0-bb2b-e4c5b6d1bbf1",
+            "query": "<p>A Take-off alternate is required</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "for all CAT flights",
+                    "format": "html"
+                },
+                {
+                    "text": "for all ETOPS flights",
+                    "format": "html"
+                },
+                {
+                    "text": "when it is not possible to use the aerodrome of departure to return for landing after shortly take-off",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "when no en-route alternate is filed",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "02bd768d-27a0-672d-569b-5972c5bd5830",
+            "query": "<p>When the aircraft and flightcrew do not require extra planning minima, the&nbsp;flight planning minima for destination are</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "equal to the applicable published minima",
+                    "format": "html"
+                },
+                {
+                    "text": "the published minima plus an increment of +200 ft/ +550 m",
+                    "format": "html"
+                },
+                {
+                    "text": "the published minima plus an increment of +200ft/ +800 m",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "4bf529e4-f0dd-3167-e0ba-4d2d026d4b9d",
+            "query": "<p>For a LVTO with RVR &lt;400m, Low Visibility Procedures (LVP) must be in force at the aerodrome of departure</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "True",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "False",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "711313f1-2cc8-ef37-dc43-c2d55d337ab6",
+            "query": "<p>Select the most correct answer.</p><p>The Red Vapourising Liquid Fire Extinguisher as available in the cockpit and cabin (and having&nbsp; a green label..) can be used against&nbsp;</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "flamable liquids fires",
+                    "format": "html"
+                },
+                {
+                    "text": "Flamable gases fires",
+                    "format": "html"
+                },
+                {
+                    "text": "all of the above",
+                    "format": "html"
+                },
+                {
+                    "text": "electrical fires",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "8cb9170c-b6af-e10e-8f69-bfe5063992fc",
+            "query": "<p>An aircraft may not depart from an (high altitude) aerodrome, if the weight cannot be reduced to comply with the approach climb requirements in case of a return due engine failure. If a fuel jettison system is available, it may only be used for 0:15.&nbsp;</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "True",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "False",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "49a09c04-56d0-0b72-75ce-57fe4e157091",
+            "query": "<p>Which equipment is required for the determination of the DH in a CAT II or CAT III approach?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Air Data Computer",
+                    "format": "html"
+                },
+                {
+                    "text": "Flight Management Computer",
+                    "format": "html"
+                },
+                {
+                    "text": "Radio Altimeter",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "GNSS VNAV",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9730169d-1234-c7dd-008f-cf80c16908fe",
+            "query": "<p>The holdover time starts from</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "the start of the de-icing procedure",
+                    "format": "html"
+                },
+                {
+                    "text": "the start of the anti-icing procedure",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "the end of the de-icing procedure",
+                    "format": "html"
+                },
+                {
+                    "text": "the end of the anti-icing procedure",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ac52db00-98e6-efcc-eb52-d0289b3752c9",
+            "query": "<p>The operators security training programme must be compatible with</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "ICAO Annex 20",
+                    "format": "html"
+                },
+                {
+                    "text": "The FAA requirements",
+                    "format": "html"
+                },
+                {
+                    "text": "the National Civil Aviation Security Programme (NCASP)",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "The In-Flight Procedures",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fdf86195-48b9-cc70-b08b-75b5e62d6acc",
+            "query": "<p>An operator approved for Civil CAT is&nbsp;&nbsp;involved in</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "General Aviation",
+                    "format": "html"
+                },
+                {
+                    "text": "Coastguard patrol",
+                    "format": "html"
+                },
+                {
+                    "text": "the transport of Passengers, Bagage, Cargo and Mail",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "Agriculture",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "10df4712-4875-3be9-b00f-3dbda6e805d0",
+            "query": "<p>During critical phases of flight, the cabin crew</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "may stow away any lugage",
+                    "format": "html"
+                },
+                {
+                    "text": "may still walk through the cabin",
+                    "format": "html"
+                },
+                {
+                    "text": "must be seated at their assigned seat",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "may be seated in the cockpit",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e4fb65f9-de4a-9b36-10d5-a49842b68627",
+            "query": "<p>The operator must&nbsp;nominate</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "a home base for each crew member",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "a maximum of two home bases for each crew member",
+                    "format": "html"
+                },
+                {
+                    "text": "a maximum of three home bases for each crew member",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8c7bfe21-d130-ca98-e46a-017d746c9c78",
+            "query": "<p>For a distant noice abatement procedure during take-off,&nbsp;&nbsp;your operator dictates you to reduce thrust at 800 ft and then to start flap retraction. This profile is called</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "NADP1",
+                    "format": "html"
+                },
+                {
+                    "text": "NADP2",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "NADP3",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a5be26c9-1dfb-d53e-eea0-491890cc42c5",
+            "query": "<p>The lowest RVR for a Normal take-off is 550m. With RVR&lt;550 m an operator requires a LVTO-approval.</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "True",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "False",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "df20ef6e-b250-bf4f-4355-a516c3c83036",
+            "query": "<p>Slow decompression is caused by component or controller failure, and may not be obvious. Signs include:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "a loud bang, followed by misting in the cockpit",
+                    "format": "html"
+                },
+                {
+                    "text": "cockpit door openening automatically",
+                    "format": "html"
+                },
+                {
+                    "text": "ears popping",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "DOOR BULK CARGO Caution",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e98ea8a0-e845-d48d-49ec-a4ef854967ee",
+            "query": "<p>A Flight Data Recorder is compulsory on</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Aircraft with MCTOM > 2000 kg",
+                    "format": "html"
+                },
+                {
+                    "text": "Single-engine aircraft with MOPSC > 9",
+                    "format": "html"
+                },
+                {
+                    "text": "All Aircraft operated > 50 nm from land",
+                    "format": "html"
+                },
+                {
+                    "text": "Aircraft with MCTOM > 5700 kg",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "ed140262-7596-6496-c9a2-c4481c3b8bf8",
+            "query": "<p>Information concerning evacuation procedures can be found in the:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "journey logbook.",
+                    "format": "html"
+                },
+                {
+                    "text": "operational flight plan.",
+                    "format": "html"
+                },
+                {
+                    "text": "operations manual.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "flight manual.",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "5ea98dbc-c2a0-5722-940e-316e8ba765a3",
+            "query": "<p>After landing, in case of <strong>high</strong> temperature of the brakes you:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "apply the parking brake and you approach the wheels from the front or rear.",
+                    "format": "html"
+                },
+                {
+                    "text": "apply the parking brake and approach the wheels sidewards.",
+                    "format": "html"
+                },
+                {
+                    "text": "release the parking brake and you approach the wheels sidewards.",
+                    "format": "html"
+                },
+                {
+                    "text": "release the parking brake and you approach the wheels from the front or rear.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "7563e2cc-fc0e-dec4-6507-c6efdc79877f",
+            "query": "<p>Supplemental oxygen is used to:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "assist a passenger with breathing disorders.",
+                    "format": "html"
+                },
+                {
+                    "text": "provide passengers with oxygen who might require it following a cabin depressurisation.",
+                    "format": "html"
+                },
+                {
+                    "text": "protect a crew while fire fighting during the flight.",
+                    "format": "html"
+                },
+                {
+                    "text": "provide people on board with oxygen during a cabin depressurisation.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "2fd5302e-1537-e263-1c6a-61f6c23310d3",
+            "query": "<p>During a flight to Europe, planned in NAT HLA&nbsp;airspace, you expect to cross the 30°W meridian at 00H30 UTC. You will then normally be flying:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "within the organized night-time flight track system.",
+                    "format": "html"
+                },
+                {
+                    "text": "outside the organized flight track system.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "within the organized daytime flight track system.",
+                    "format": "html"
+                },
+                {
+                    "text": "in a random space.",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "63ba785d-3219-0e5b-399e-1413aebb1722",
+            "query": "<p>In the NAT HLA&nbsp;area, a pilot should first of all take the following action in the event of a failure of the last available Long Range Navigational System:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "request authorization from ATC to track another preceding aircraft.",
+                    "format": "html"
+                },
+                {
+                    "text": "set a different heading approximately 45° from the previous one.",
+                    "format": "html"
+                },
+                {
+                    "text": "Immediately climb or descent 500 ft, advise ATC as soon as possible",
+                    "format": "html"
+                },
+                {
+                    "text": "Immediately notify ATC and wait for a reply within a reasonable period.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "a90a20d6-38bf-2649-d2dc-3308b3f4a423",
+            "query": "<p>PRMs must not occupy seats where their presence might impede emergency evacuation</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "True",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "False",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7ad64376-1728-903a-0da1-e22616cd0bf7",
+            "query": "<p>For purpose of wake turbulence separation, what is the ICAO minimum separation distance&nbsp;if a light aeroplane (7000 kg or less) is following a medium aeroplane (less than 136000 kg but more than 7000 kg) on the approach to landing?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "6 nm",
+                    "format": "html"
+                },
+                {
+                    "text": "8 nm",
+                    "format": "html"
+                },
+                {
+                    "text": "4 nm",
+                    "format": "html"
+                },
+                {
+                    "text": "5 nm",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "3b286972-6287-39d6-46b8-220f46546080",
+            "query": "<p>An analysis of the bird strikes highlights the main risks:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "pilots not warned of bird activity hit birds as often as pilots warned of bird activity",
+                    "format": "html"
+                },
+                {
+                    "text": "80% of the strikes occur below 1000 ft",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "50 % of strikes involve large birds",
+                    "format": "html"
+                },
+                {
+                    "text": "only 10% occur during the night",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bef1b695-123c-76f8-cd2d-151d742caf17",
+            "query": "<p>An aircraft having undergone an anti-icing procedure and having exceeded the protection time of the anti-icing fluid:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "need not to undergo a new anti-icing procedure for take-off.",
+                    "format": "html"
+                },
+                {
+                    "text": "must only undergo a de-icing procedure for take-off.",
+                    "format": "html"
+                },
+                {
+                    "text": "must undergo a de-icing procedure before a new application of anti-icing fluid for take-off.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "234c7df0-0137-8326-f48b-7fd00f3fbde0",
+            "query": "<p>In the EU-OPS, a runway is considered damp:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "when surface moisture gives it a shiny appearance and there is some standing water.",
+                    "format": "html"
+                },
+                {
+                    "text": "when surface moisture gives it a shiny appearance, but there is no standing water.",
+                    "format": "html"
+                },
+                {
+                    "text": "as soon the runway surface contains standing water.",
+                    "format": "html"
+                },
+                {
+                    "text": "when its surface is not dry, and when surface moisture does not give it a shiny appearance.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "9d00a01a-98e9-0183-6087-8ba79769456d",
+            "query": "<p>The &nbsp;NAT HLA airspace extends from:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "30° North to 90° North.",
+                    "format": "html"
+                },
+                {
+                    "text": "27° North to 70° North.",
+                    "format": "html"
+                },
+                {
+                    "text": "30° North to 70° North.",
+                    "format": "html"
+                },
+                {
+                    "text": "27° North (in New York OCA) to 90° North.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "9549c589-21c1-acb8-134c-f57e4dde733e",
+            "query": "<p>According to EASA AIR OPS, a lifejacket is mandatory for each person on board a land aeroplane, when flying over water at a distance from the shore of more than:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "100 NM",
+                    "format": "html"
+                },
+                {
+                    "text": "150 NM",
+                    "format": "html"
+                },
+                {
+                    "text": "50 NM",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "12 NM",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1bbe1fa4-8986-c60d-35c4-afa8e353d925",
+            "query": "<p>Where is it best to carry out fuel jettison/dumping:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "above flight level 100",
+                    "format": "html"
+                },
+                {
+                    "text": "not below flight level 60 and in coordination with ATC.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "Over water if possible, below flight level 60.",
+                    "format": "html"
+                },
+                {
+                    "text": "In a holding pattern( if cleared by ATC)",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "403fea75-7250-d2ca-6f7f-081ffed9dcbb",
+            "query": "<p>The minimum navigation equipment required for an aircraft flying without restriction in NAT HLA airspace shall consist of at least:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "two inertial navigation units and a DECCA.",
+                    "format": "html"
+                },
+                {
+                    "text": "one inertial navigation unit.",
+                    "format": "html"
+                },
+                {
+                    "text": "two Long Range Navigation Systems",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "three inertial navigation units.",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9e91b954-7755-8a54-a695-910c943cdd5d",
+            "query": "<p>Who is responsible for ensuring cabin crew members are qualified in their duties?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "The senior cabin crew member.",
+                    "format": "html"
+                },
+                {
+                    "text": "EASA",
+                    "format": "html"
+                },
+                {
+                    "text": "The pilot-in-command.",
+                    "format": "html"
+                },
+                {
+                    "text": "The operator.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "5d119cb4-5e8f-4e75-d1a2-a694be32cbb2",
+            "query": "<p>To combat fatigue controlled rest periods should satisfy the following criteria:<br>The rest period should not be longer than (…….?) minutes to limit deep sleep and<br>there should be a recovery period of (……?) minutes to overcome sleep inertia.</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "60 mins 320 mins",
+                    "format": "html"
+                },
+                {
+                    "text": "60 mins    60 mins",
+                    "format": "html"
+                },
+                {
+                    "text": "60 mins 20 mins",
+                    "format": "html"
+                },
+                {
+                    "text": "45 mins 20 mins",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "5b8afc72-2453-b027-ad31-3b65db08baa1",
+            "query": "<p>During a de-icing/anti-icing procedure carried out in two stages, the holdover&nbsp;time starts:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "at the beginning of the second stage (anti-icing stage).",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "at the end of the first stage (de-icing stage).",
+                    "format": "html"
+                },
+                {
+                    "text": "at the beginning of the first stage (de-icing stage).",
+                    "format": "html"
+                },
+                {
+                    "text": "at the end of the second stage (anti-icing stage).",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a6b23131-0543-819b-be10-562a687dd190",
+            "query": "<p>Noise abatement procedure type 1 (NADP 1) is used for noise reduction:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "during (radar) vectoring",
+                    "format": "html"
+                },
+                {
+                    "text": "depends on the prevailing wind velocity.",
+                    "format": "html"
+                },
+                {
+                    "text": "on night approaches",
+                    "format": "html"
+                },
+                {
+                    "text": "near the airfield during departure.",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "8afbf122-faf8-c7c3-abb9-cf585b0592b8",
+            "query": "<p>A Break-in point or cut-in area:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "is designated as a weaker fuselage area.",
+                    "format": "html"
+                },
+                {
+                    "text": "is lit internally by the emergency lighting system.",
+                    "format": "html"
+                },
+                {
+                    "text": "always has a crash axe located next to it.",
+                    "format": "html"
+                },
+                {
+                    "text": "is marked in red (light background) or yellow (dark background)",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "4475cd37-b23c-02b0-693e-a88471bde102",
+            "query": "<p>OTS stands for:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Organized Traffic System",
+                    "format": "html"
+                },
+                {
+                    "text": "Oceanic Track System",
+                    "format": "html"
+                },
+                {
+                    "text": "Organized Track System",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "7d3db393-eb82-6669-5e0e-4614c6a39b3b",
+            "query": "<p>RVSM stands for:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Revised Vertical Separation Minima",
+                    "format": "html"
+                },
+                {
+                    "text": "Reduced Visibility Minima",
+                    "format": "html"
+                },
+                {
+                    "text": "Reduced Vertical Separation Minima",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "d20270a4-3ec1-78e0-c468-8e79a8d87536",
+            "query": "<p>A foam filled fire extinguisher is recognized on which color and may be not used on what groups of materials?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "A blue color and is should not be used on metal fires",
+                    "format": "html"
+                },
+                {
+                    "text": "A green color and it shall not be used on liquid fires",
+                    "format": "html"
+                },
+                {
+                    "text": "A yellow color and it shall not be used on electrical and metal fires",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "A blue color and it shall not be used on metal and/or electrical fires",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9f71525f-6a53-d3be-5139-2428473e5c90",
+            "query": "<p>Regarding Wake Turbulence, a Medium Aircraft should follow a Heavy Aircraft for not less than:</p><p>&nbsp;</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "8 nm for landing and 3 min for takeoff",
+                    "format": "html"
+                },
+                {
+                    "text": "7 nm for landing and 3 min for takeoff",
+                    "format": "html"
+                },
+                {
+                    "text": "6 nm for landing and 2 min for takeoff",
+                    "format": "html"
+                },
+                {
+                    "text": "5 nm for landing and 2 min for takeoff",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "39b0777a-ac72-5361-9a98-378e56e7b282",
+            "query": "<p>What is the TUC at 40.000 feet?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "3 seconds with moderate activity",
+                    "format": "html"
+                },
+                {
+                    "text": "10 seconds whith moderate activity",
+                    "format": "html"
+                },
+                {
+                    "text": "18 seconds with moderate activity",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "60 seconds with moderate activity",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "55997631-bffc-25ae-7402-1107174cfd89",
+            "query": "<p>In the EASA FTL regulations ,the WOCL is defined as the period&nbsp;in the time zone you are acclimised to between</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "01:00 - 05:59",
+                    "format": "html"
+                },
+                {
+                    "text": "02:00 - 05:59",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "03:00 - 06:59",
+                    "format": "html"
+                },
+                {
+                    "text": "04:00 - 06:59",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "687f0ca7-1a44-4082-3e05-6151bc099e27",
+            "query": "<p>Following a birdstrike during approach, the commander is required to file</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Nothing",
+                    "format": "html"
+                },
+                {
+                    "text": "A Bird Strike Report or BSR",
+                    "format": "html"
+                },
+                {
+                    "text": "An Air Proximity Report or APR",
+                    "format": "html"
+                },
+                {
+                    "text": "An Air Safety Report or ASR",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "1396e4b9-ee9a-0136-d672-6e82196a5e7b",
+            "query": "<p>NAT HLA stands for:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "North Atlantic Track  Heavy Loads Acceptable",
+                    "format": "html"
+                },
+                {
+                    "text": "North Atlantic High Level Airspace",
+                    "format": "html"
+                },
+                {
+                    "text": "North Atlantic Temporarely High Level Airspace",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "0cadc28e-43da-a014-1a5f-96c99ab50655",
+            "query": "<p>How often should a pilot proficiency checks be preformed:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "2 within a year, an OPC and an LPC",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "No less than 6 months between checks",
+                    "format": "html"
+                },
+                {
+                    "text": "3 checks within the year with no less than 4 months between checks.",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6e44adc2-2a39-5915-a7a2-12c28b5f7099",
+            "query": "<p>During winter operations with heavy snow and ice accretion on the wings hold over time following de-icing shall approximately be:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "15 minutes in freezing fog with temperatures below -10C",
+                    "format": "html"
+                },
+                {
+                    "text": "CAUTION: No holdover guidelines exist",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "45  minutes in snow with temperaturs below zero",
+                    "format": "html"
+                },
+                {
+                    "text": "10 minutes regardless of the weather type",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cd7b9a47-c66a-d0e0-fefd-46eadb433795",
+            "query": "<p>If there is an immediate medical emergency for one&nbsp;passenger on-board</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "An en-route diversion may be requested only",
+                    "format": "html"
+                },
+                {
+                    "text": "In order to prevent an Overweight landing, fuel dumping is mandatory",
+                    "format": "html"
+                },
+                {
+                    "text": "A PAN PAN PAN-call shall be made",
+                    "format": "html"
+                },
+                {
+                    "text": "A MAYDAY MAYDAY MAYDAY-call shall be made",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "6385c3d4-d37d-8225-2819-f956816cd0bf",
+            "query": "<p>Before conducting CAT operations, the operator must:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Apply for an AOC from the relevant Authority",
+                    "format": "html"
+                },
+                {
+                    "text": "Obtain an AOC issued by the relevant Authority",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "Apply for an AOC from EASA",
+                    "format": "html"
+                },
+                {
+                    "text": "Obtain approval from IATA",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "faf10e06-0816-d7d2-f9e1-1f4dfcedeae7",
+            "query": "<p>If a crew member is working for more than one operator, the responsability for flight-duty and rest records rests with:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "The operators",
+                    "format": "html"
+                },
+                {
+                    "text": "The crew member",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "The commander",
+                    "format": "html"
+                },
+                {
+                    "text": "The Authority",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "80d3236e-4d08-ae37-d487-d67f367572b9",
+            "query": "<p>When operating an in-flight relief (heavy) crew at or above FL200, the commander can be relieved by:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "A CPL-holding co-pilot authorised to fly the aircraft",
+                    "format": "html"
+                },
+                {
+                    "text": "Any flight crew member",
+                    "format": "html"
+                },
+                {
+                    "text": "A CRCP",
+                    "format": "html"
+                },
+                {
+                    "text": "Only by an ATPL-holding co-pilot authorised to fly the aircraft",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "4a4aa338-a3b9-bd5d-12a9-260d53ada9bf",
+            "query": "<p>The Licence Proficiency Check or LPC has a validity for</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "3 months",
+                    "format": "html"
+                },
+                {
+                    "text": "6 months",
+                    "format": "html"
+                },
+                {
+                    "text": "12 months",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "18 months",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "af0f506f-b42e-dff7-fed3-8adc66a0e727",
+            "query": "<p>With regards to ETOPS and EDTO</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "3 and 4 engine aircraft are exempted from the current ETOPS regulations",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "Operators shall produce an ETOPS en-route chart for every ETOPS flight",
+                    "format": "html"
+                },
+                {
+                    "text": "A flight must always be planned to arrive with at least 30 minutes holding fuel at any planned alternate",
+                    "format": "html"
+                },
+                {
+                    "text": "A non-ETOPS flight shall remain within 60 minutes of an adequate aerodrome with actual-wind OEI cruise speed",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "46590fb1-93f9-fe34-0952-decd2ce3328a",
+            "query": "<p>Without ETOPS approval, twin-engined aircraft may not be flown over a route which contains any point further from an adequate airport than can be flown in the threshold time, OEI, in</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "planned wind conditions",
+                    "format": "html"
+                },
+                {
+                    "text": "still air",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "1ece846b-e98e-40b1-60a0-ed2d7bba8e23",
+            "query": "<p>The global inter-pilot frequency for use when out of range of VHF ground stations, for exchange of inter-pilot information is:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "123.45 MHz",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "2.8 GHz",
+                    "format": "html"
+                },
+                {
+                    "text": "23.45 MHz",
+                    "format": "html"
+                },
+                {
+                    "text": "123.45 GHz",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cbb64bab-125e-c3de-f20e-f30d32d728e0",
+            "query": "<p>What does the abbreviation MOPSC refer to?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Maximum operational seating configuration",
+                    "format": "html"
+                },
+                {
+                    "text": "Maximum operational passenger seating classification",
+                    "format": "html"
+                },
+                {
+                    "text": "Minimum operational passenger seating configuration",
+                    "format": "html"
+                },
+                {
+                    "text": "Maximum operational passenger seating configuration",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "df0dfcf0-7981-804c-c82a-eb2ca0bf0988",
+            "query": "<p>Low Visibility Operations should be in force if the RVR is less than:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "400m",
+                    "format": "html"
+                },
+                {
+                    "text": "550m",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "800m",
+                    "format": "html"
+                },
+                {
+                    "text": "1500m",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bfb04822-2a34-4d54-530b-7e97a45b5e46",
+            "query": "<p>If you suspect a&nbsp;slow decompression, the first action you must do is</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "check the aircopacks to be ON",
+                    "format": "html"
+                },
+                {
+                    "text": "Declare an emergency to ATC",
+                    "format": "html"
+                },
+                {
+                    "text": "land at nearest suitable airport",
+                    "format": "html"
+                },
+                {
+                    "text": "Immediately don the oxygen mask",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "900b1c57-9b84-ff0c-9c2e-401bce10f52f",
+            "query": "<p>Select the best possible answer.</p><p>The crew must:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "comply with flight and duty time limitations",
+                    "format": "html"
+                },
+                {
+                    "text": "report to the commander any defect which might affect safety",
+                    "format": "html"
+                },
+                {
+                    "text": "report to the commander any occurence that is affecting safety",
+                    "format": "html"
+                },
+                {
+                    "text": "all of the above",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "547bd46e-60b2-a809-b332-0f054fe30a2c",
+            "query": "<p>Manuals to be carried on every flight</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Flight Documents II",
+                    "format": "html"
+                },
+                {
+                    "text": "An ETOPS en-route chart",
+                    "format": "html"
+                },
+                {
+                    "text": "The AFM",
+                    "format": "html"
+                },
+                {
+                    "text": "The AFM unless the Authority accepts the OM(B) containing all relevant information",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "ffa5d719-f73c-bf40-f03b-5c69e725cfee",
+            "query": "<p>An aerodrome may be nominated as an ETOPS ERA aerodrome for flightplanning, if the available Wx-forcast for a period lasting from the earliest time of potential use&nbsp;until 1 hour after the latest time of potential use equals or exceeds:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "For an ILS approach, a ceiling of DA/H + 200 ft and a visibility of VIS + 800m",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "For an ILS approach, a ceiling of DA/H + 400 ft and a visibility of VIS + 1500m",
+                    "format": "html"
+                },
+                {
+                    "text": "For a non-precision approach, a ceiling of MDA/H + 200 ft and a visibility of VIS + 800m",
+                    "format": "html"
+                },
+                {
+                    "text": "For a Circling approach, a ceiling of MDA/H + 1000 ft and a visibility of VIS + 5000m",
+                    "format": "html"
+                }
+            ]
+        }
+    ]
+}

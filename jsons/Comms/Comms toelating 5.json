@@ -1,0 +1,4424 @@
+{
+    "uuid": "91a1eaca-d18f-4546-af4b-a218769fec9e",
+    "title": "Tentamenvragen 090 uit Examiner",
+    "questions": [
+        {
+            "uuid": "a51762de-e4cc-5517-5f7b-644f962632f0",
+            "query": "<span style=\"display: block;\">If there is a communication failure on an IFR flight in IMC following a climb to the cleared flight planned level, the flight crew should:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Remain at the last cleared level, wait 7 minutes starting from the moment the flight was levelled off and commence the approach. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Divert to the appropriate designated navigation aid serving the nearest suitable aerodrome, then commence a descent while squawking the comm. failure SSR code. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Continue to the appropriate designated navigation aid serving the destination aerodrome, hold until the last reported EAT or until the ETA, then commence a descent. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Continue to the appropriate designated navigation aid serving the destination aerodrome, then immediately commence a descent. </span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "65971bba-a7d1-f6e5-bf82-0191ca277704",
+            "query": "<span style=\"display: block;\">The abbreviation IMC stands for:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Instrument Motor Control.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>IFR Meteorological Conditions.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Independent Movement Control.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Instrument Meteorological Conditions.</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "c629e876-342f-bc0f-b942-4d0e0970cf13",
+            "query": "<span style=\"display: block;\">How does the crew indicate to ATC they are not able to comply with RVSM (reduced vertical separation minima) because of weather conditions?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>omit RVSM.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cannot comply due to chop.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>level bust due to weather</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>unable RVSM due to turbulence.</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "eb7dcec5-c420-cd87-55b1-e2f07a013b1e",
+            "query": "<span style=\"display: block;\">The abbreviation PAR stands for:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Precision Area NAV.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Prohibited Area Radius.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Primary Approach Radar.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Precision Approach Radar.</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "c7f398fc-58a5-ffd9-d937-9b935a0e8d1b",
+            "query": "<span style=\"display: block;\">From the options from PANS ATM Chapter 12 listed below, when the tower controller instructs a pilot to fly 'runway heading' after take-off, he should instruct him or her to:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>fly straight out.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>track extended runway centre line. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>continue runway heading.</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span>continue runway track.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ab01803c-bc2a-d844-a9f9-a01d6f680fd5",
+            "query": "<span style=\"display: block;\">If a normal instrument approach procedure is conducted following communications failure, a landing should be completed within…………..minutes after the last acknowledged………………or ………………………resulting from the current flight plan.  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>15  ETA  EAT</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>20  EAT  ETA</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>10  EAT  ETA</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>30  EAT  ETA</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "2b47a191-3020-8c60-7727-08e6e8b9c22d",
+            "query": "<span style=\"display: block;\">ATC gives a crew an clearance or instruction that is contradictory to a TCAS RA the crew just received. How should the crew respond to ATC?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>negative, we got a TCAS RA.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>unable, TCAS RA.</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span>negative, stand-by.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>unable to comply due TCAS.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d1f0b9d4-6c63-5dc3-4f56-c84a81f53ec6",
+            "query": "<span style=\"display: block;\">When in radio telephony the person you are in radio contact with speaks too fast for you and you want him/her to speak at a more acceptable rate of speech, you should use/say:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>say again</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>speak standard rate</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>words twice</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>speak slower</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "e3b2fc2d-a3d5-a2cb-1cd2-802c83e75022",
+            "query": "<span style=\"display: block;\">The phrase  ‘take off’ is used only when an aircraft is cleared for take off or when cancelling a take off clearance.  At all other times the following 2 words or phrases shall be used:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>climb-out and departure.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>airborne and start.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>start and departure.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>departure and airborne.</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "56e2a246-a0d9-670e-ce1e-429a90a962aa",
+            "query": "<span style=\"display: block;\">When an ATS unit has no relevant traffic to advise a flight crew about, the crew should be notified as follows:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>negative traffic.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>no traffic in your vicinity.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>traffic unknown.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>no reported traffic.</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "2f44eeee-841f-cd57-9851-43abba72bca6",
+            "query": "<span style=\"display: block;\">If a controller instructs a pilot to \"CONFIRM SQUAWK\", the pilot should:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>reselect the assigned code and wait for ATC to confirm the correct radar information.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>operate the “IDENT” feature and wait for the confirmation.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>state whether the SSR transponder is set.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>confirm to him/her by radio the SSR code as set on the transponder.</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "fb90de2f-f02d-255b-40d6-aff6b3b4189c",
+            "query": "<span style=\"display: block;\">During communications failure on an international IFR flight in IMC not under  radar control, unless otherwise prescribed, the crew has to:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Remain at the last cleared level, wait 20 minutes, seek VMC and  then divert to the nearest suitable aerodrome. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Immediately climb to the filed flight plan level, wait 20 minutes, then divert to the nearest suitable aerodrome. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>After a period of 20 minutes following a failure to report position, climb to the filed flight plan level and adjust speed accordingly. </span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span>Immediately climb to the filed flight plan level and adjust speed accordingly. </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4f3484b6-7b80-94d9-dd77-644092698064",
+            "query": "<span style=\"display: block;\">The “visual phase after completing an instrument approach procedure to bring an aircraft into position for landing on a runway which is not suitably located for a straight-in approach” is called a/an:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Break-off.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Course reversal.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Base turn.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Circling approach.</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span>break off.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>course reversal.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>base turn.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>circling approach.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "939613df-7b49-e6c0-5858-fbadbe0c1ac4",
+            "query": "<span style=\"display: block;\">The read back to the instruction “Give way to the Embraer from the left” should be:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>giving way, looking out/ traffic in sight.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>traffic in sight.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>looking out.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>giving way to the Embraer from left.</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "6e2e4ba1-cb30-b365-c014-9ddaba9b3436",
+            "query": "<span style=\"display: block;\">The true bearing from a VDF bearing station to the posi­tion of e.g. an aircraft is called:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>QDR</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>QGE</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>QDM</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>QTE</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "80c86247-0b8f-8112-e563-94c6f2491605",
+            "query": "<span style=\"display: block;\">What is the q-code for a series of consecutive bearings?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>QGE</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>QDL</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span>QBI</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>QTE</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f8e48b45-7df4-4eba-30f4-9e5a13eb225a",
+            "query": "<span style=\"display: block;\">The accuracy of a class D bearing is:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>+ or - 2 degrees</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>+ or - 5 degrees</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>+ or - 10 degrees</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>+ or -  more than 10 degrees</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "b6964067-5f5e-dab3-d95f-0d0d1aa44cae",
+            "query": "<span style=\"display: block;\">The accuracy of a fix made by means of a VDF bearing can be classified as follows:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Class C: accurate within an area of 30 NM.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Class A: accurate within an area of 10 NM.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Class D: less accurate than 40 NM.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Class B: accurate within an area of 20 NM</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "cdff871f-5a95-cccf-f1bb-33be92f19f2c",
+            "query": "<span style=\"display: block;\">During your flight with the PHBNT you are instructed: \"PNT transmit for bearing\".  You reply in the following manner: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>PNT transmitting for bearing 123454321 PNT</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Transmitting for bearing 123454321 PNT</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>PH BNT Transmitting for bearing 123454321</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Transmitting for bearing 123454321 PH BNT</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "06806e91-249d-e9b3-954c-2d6a3d1606fc",
+            "query": "<span style=\"display: block;\"><p>You want information about the course to be flown towards an air­field by means of radio bearing. You can request this in the following manner:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>request vector to the field</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>request tracking to the field</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>request QDR or : request magnetic bearing</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>request QDM or : request magnetic heading</p>  </span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "9c47964f-8f9d-cbc0-b8c5-06cbcb1d2985",
+            "query": "<span style=\"display: block;\"><p>The order of priority of radio messages in the Aeronautical Mobile Service conform Annex 10 is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>direction finding message, distress message, urgency message.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>distress message, flight safety message, urgency message.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>meteorological message, direction finding message, flight regularity message.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>distress message, urgency message, direction finding message.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "60518034-0664-1732-f6cf-3b6c3a5842cc",
+            "query": "<span style=\"display: block;\"><p>The priority of the pilot's message \"request QDM\" in relation to other categories of messages is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>lower than \"descend to flight level...\"</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>same as \"latest QNH 1018\"</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>lower than \"request climb to flight level...\"</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>greater than \"descend immediately to flight level...\"</p>  </span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "5d21e82a-3ba5-97ab-265a-ddff078ab433",
+            "query": "<span style=\"display: block;\"><p>You are lost and need radar vectoring to the destination. You request radar vectors from an Approach Control unit. What&nbsp;CATEGORY of message is it?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Urgency message</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Flight safety message</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Distress message</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Communications relating to direction finding</p>  </span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "39bd4dd5-8220-6ff1-932d-b794ee88594e",
+            "query": "<span style=\"display: block;\"><p>112.100 MHz is the frequency of a:/an</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Glide path transmitter</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>NDB</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>VOR</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Localizer</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e747c7e5-9c41-4761-911d-b5902b0e22d4",
+            "query": "<span style=\"display: block;\">What is the expected range of air-to-ground communications if an aircraft is flying at 6000 ft above a ground antenna?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>approximately 60 NM.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>approximately 80 NM.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>approximately 100 NM.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>approximately 120 NM.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6d2df411-7f4f-80c1-f766-c20569a25553",
+            "query": "<span style=\"display: block;\">You are flying at an altitude of 2500 ft and on the VHF you are in contact with a station  that has an antenna of 25 ft high. Calculate the maximum range within which you can be in contact with that station.  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>660 NM.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>66  NM.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>55  NM.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>approximately 70 NM.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "99b9ace7-a395-094a-9bd0-048f15696fa1",
+            "query": "<span style=\"display: block;\">The “separation”, or electronic distance between two consecutive COMM frequencies in the VHF band for General Aviation is:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>38 kHz.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>General Aviation uses 100 kHz steps.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>either 50 kHz or 8.33 kHz depending on the level one is flying at.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>depending on the country you are flying in and the level you are flying at: 25 or 8.33 kHz.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "90abb280-16c7-616b-7fac-8a81813949b3",
+            "query": "<span style=\"display: block;\"><p>For flights&nbsp;in certain&nbsp;airspace classes, 8.33 channel separation has been implemented. What is a correct example of an RT instruction to change to such a channel, e.g. 132.010? KLM 1234, contact Maastricht Radar on:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>132.010</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>8.33 frequency 132.010</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>132.0</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>channel 132.0</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fd4dd27f-5270-b724-63f1-0c5fb089d578",
+            "query": "<span style=\"display: block;\">How do you indicate to ATC that  you have a radio with “8.33 capability” when they ask you “confirm eight point tree tree (8.33)  equipped”?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>affirm eight point tree tree.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>eight point tree tree</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>able eight point tree tree.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>eight point tree tree equipped.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c8ef6e4e-58d4-0ded-52fc-c640aef1879a",
+            "query": "<span style=\"display: block;\">You think you are being called on the radio by ATC but you are not certain. What should you do?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>You ask for a radio check</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>You reply by stating your call sign once</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>You say: \"station calling, say again call sign\"</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>You say nothing for at least 10 seconds</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "81b38cfb-464f-8449-161a-1f752b9d443a",
+            "query": "<span style=\"display: block;\">Which of the following operating procedures are transmitting techniques recommended by ICAO?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Before transmitting, listen out on the frequency used to be sure there is no interference with the transmission of another station. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Maintain a rate of speech common to your country of origin. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>When reading back a clearance, instruction or message from ATC  always start your message with your full radio call sign to avoid call sign confusion. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>It is permitted to change the speaking volume for urgent communications. </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4a75e483-d9e7-c551-c18c-2ca88af0e3e7",
+            "query": "<span style=\"display: block;\">Which of the following must be spoken using the international phonetic alphabet?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>VOR</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>ILS</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>G-EGKL (call sign)</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>CAVOK in a weather broadcast</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a06050bb-dd72-6a04-532c-dcf6145c438f",
+            "query": "<span style=\"display: block;\">Which of the following must not be spoken using the phonetic alphabet?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>CAVOK</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>PH-BYD</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>SPY </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>EDWW</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d89e5f6b-c54f-b0e8-9a9d-8eefb2d22eb4",
+            "query": "<span style=\"display: block;\">The altitude 11.500 ft is pronounced as:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>One one tousand five hundred ft</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>One one tousand five zero zero ft</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Eleven tousand five hundred ft</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>One one five zero zero feet</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e1159f67-790d-d419-80cd-62f4a8d2608c",
+            "query": "<span style=\"display: block;\">Flight Level 050 shall be transmitted as:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Flight level zero five zero</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Flight level five zero</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Flight level five oh</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Five tousand feet </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d46915a7-f792-3d03-b06d-8ba37948b1ca",
+            "query": "<span style=\"display: block;\">The radio frequency 118.025 MHz shall be transmitted as:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>One one eight decimal zero two five</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>One one eight decimal zero two</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>One one eight decimal zero</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>One one eight zero two five</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "eb7cecf9-4601-99e3-ca3c-04cfb3f17a15",
+            "query": "<span style=\"display: block;\">How should the time 01:50 be transmitted?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Five zero, or if there is any possibility of confusion, zero one five zero</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Ten minutes to two AM (Ante Meridiem)</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Five zero past one and specify if it is in UTC.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Five zero past the hour </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "59457d1d-0a34-e74a-ef09-b119f4b93530",
+            "query": "<span style=\"display: block;\">The time 11.39 in the evening is in principle pronounced in R/T as:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Eleven thirty nine </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Tree niner</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>One one tree niner</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>One one decimal tree niner</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1ec5fac1-76d7-900b-5bde-f6d3899a0842",
+            "query": "<span style=\"display: block;\">The time 1643z should be transmitted as:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Sixteen forty tree or: four tree</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>One six four tree or: four tree</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Sixteen forty three or four forty three pm</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>One six four three of four fourty tree pm</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e017053d-0af6-8a82-9964-83d7c7dd3a50",
+            "query": "<span style=\"display: block;\">When a pilot crew wishes to broadcast important information to aircraft and groundstations in his/her vicinity, the message should start with the word(s):  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>All stations</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Interpilot</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Break break</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Break</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "86262942-7576-b071-1b32-1b747cac9111",
+            "query": "<span style=\"display: block;\">Which word or phrase shall be used if you want to say \"Wait and I will call you (back)\"?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Go ahead</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Stand by</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Break</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Acknowledge</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "03366595-ec4e-8dfa-4a1f-2410aa716f62",
+            "query": "<span style=\"display: block;\">Which phrase shall be used if you want to say: \"An error has been made in this transmission (or message indicated).  The correct version is:......  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>QNH 1017, correction QNH 1016</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>QNH 1017, negative QNH 1016</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>QNH 1016, I repeat 1016</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>QNH 1017, negative I say again 1016</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "34c022ae-4ea6-ef43-6832-d7bcac588763",
+            "query": "<span style=\"display: block;\">During a flight in VMC an air traffic controller asks you if you can see  another       aircraft. The other aircraft is getting closer. You should see it but this is not the      case. Your reply should be: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Traffic not in sight</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Traffic not visual</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Negative contact</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Confirm</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a2735989-26e6-e552-1f6b-015c7438403e",
+            "query": "<span style=\"display: block;\">When it is unlikely whether a flight crew can comply with a clearance then this shall be reported by the crew by means of the phrase:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Unable</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Cancel</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Cannot comply</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Maintain</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f0cde92c-56e0-1569-5567-d23a43d358e7",
+            "query": "<span style=\"display: block;\">The correct word or phrase an ATS unit will use to instruct a pilot to listen to the newest ATIS broadcast is:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Monitor</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Listen out</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Check</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Select</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "45ccfe3d-b8f1-3e13-5da3-02e67a11d5a5",
+            "query": "<span style=\"display: block;\">Aircraft X-BC has been instructed to listen on ATIS frequency 123.250 MHz, on which routine information is being broadcast. What is the correct response to indicate that it will follow this instruction?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Will listen out to 123.250 X-BC.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Changing to 123.250 X-BC.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Will contact 123.250 X-BC.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Monitor(ing) 123.250 X-BC.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "27461bac-f9d4-d3d1-ae5a-3c1b2bb41f9e",
+            "query": "<span style=\"display: block;\"> A controller interrupts his message by saying \"Break Break\".  What does this mean?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>This is used to indicate consider this reply as not sent. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>This is used to indicate that ATC radio service has been terminated. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>This is used to indicate the separation between messages transmitted to different aircraft in a busy environment. </span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span>This is used to indicate the separation between portions of the message. The pilot has to read back each portion of the message. </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "eea0cc9b-43b8-9bb6-c10d-82c2c2dba31c",
+            "query": "<span style=\"display: block;\">\"Say Again\" means:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Check your first radio call, send improved version.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Repeat everything, I did not hear you correctly.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Say everything twice because of bad signal reception.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Repeat the last item from your message.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2cdacf01-3489-55c3-310e-7038b74584e9",
+            "query": "<span style=\"display: block;\">When ATC requests a pilot: \"confirm you are squawking 2466\"  the correct reply to say yes is:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Confirm</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Affirmative</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Affirm</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Roger</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e6c2084b-c1cc-19d9-c3b4-3867ab68853d",
+            "query": "<span style=\"display: block;\">The appropriate response to the ATC instruction “report passing FL 070” would be:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Wilco, Fastair 345</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Report passing, Fastair 345</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Roger, Fastair 345</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Report paassing FL 070 Fastair 345</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ff0c58c7-9a49-3339-6a39-272060aaede3",
+            "query": "<span style=\"display: block;\">Which word or phrase shall be used if you want to say : \"Wait and I will call you\"?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Go ahead.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Stand by.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Roger.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Wait.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9a21005f-f2a4-ab41-1eec-a0fb65e05dbe",
+            "query": "<span style=\"display: block;\">The expression “MONITOR” (unit call sign on frequency…)” means:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Listen for information being broadcast on that frequency.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Change to that frequency and wait to be called by the ATS unit.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Change to that frequency and contact the unit concerned.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>The use of SELCAL equipment is permitted on that frequency.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e4ef964a-3228-83d7-ef32-6e14e4f2f167",
+            "query": "<span style=\"display: block;\">If an aircraft read back of an ATC message or instruction is incorrect, the controller shall transmit:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>The correct version twice.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>The word \"negative\", followed by the correct version of the message or instruction.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Read back incorrect, I say again.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>The correct version twice (words twice procedure).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>The word \"correction\", followed by the correct version.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "54d2094f-c3ac-65e7-c4af-bf4ba227f011",
+            "query": "<span style=\"display: block;\">Which word is used to transmit: “consider that transmission as not sent”?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Disregard.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Negative.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Annul.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Correction.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "205dc488-3b27-ac89-7a49-4dedb168b4ce",
+            "query": "<span style=\"display: block;\">The controller has to change a previous clearance. What will be the correct phrase?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Correction to your clearance.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Disregard, your clearance will be:</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Negative, your clearance will be:</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Recleared (clearance).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "64cd8836-fe39-9f3c-b9f1-f816ef4bd9a6",
+            "query": "<span style=\"display: block;\">the Standard word \"WILCO\":</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Means: I understand your message and I will call you.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>means: I will contact you</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Means: I copied your message.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Means: I understand your message and will comply with it.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "79808103-2b6a-c280-7021-006d4f1880e2",
+            "query": "<span style=\"display: block;\">What word or phrase should Air Traffic Control use to give permission for a proposed action by an aircraft or vehicle, in case the flight crew or vehicle driver REQUEST(S) to backtrack a runway, cross a taxiway, or to commence a Push Back? </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Affirm</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Approved</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Cleared</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Go Ahead</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b3058512-6d51-0ec4-968d-b0e584f6b9ae",
+            "query": "<span style=\"display: block;\">\"Let me know if you have received and understood this message' is the definition of:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Acknowledge</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Monitor</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Check</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>How do you read</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b60259a6-5285-4884-e996-547c8471394e",
+            "query": "<span style=\"display: block;\">CONFIRM means:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Correct</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Re-establish contact</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>I request verification of: (clearance, instruction, action, information)</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>I request read back of:   (clearance, instruction, action, information).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fa8ae4f9-be1d-1857-664e-c8738d56276d",
+            "query": "<span style=\"display: block;\">Which word or phrase should be used to indicate to a sending station:  'I have received all of your last transmission'.  Note: this shall under no circumstance be used in reply to a question requiring READ BACK, or a direct answer in the affirmative (AFFIRM) or negative (NEGATIVE) </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Affirm</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Roger</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Affirmative</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Wilco</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fcbf4a38-6797-e5d0-6eca-6d6331cba959",
+            "query": "<span style=\"display: block;\">The call sign \"Dispatch\" indicates:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>approach</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>clearance delivery</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the company frequency</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>emergency services channel at airports</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "247715bf-6646-6d01-1b42-29cdc4d7dfdd",
+            "query": "<span style=\"display: block;\"><p>Which call sign suffix is used to indicate that the ground station provides clearances to departing traffic only?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Delivery</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Dispatch</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Radio</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Apron</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "31f8b8de-4aca-81ee-e172-57f369bd3b74",
+            "query": "<span style=\"display: block;\">What is the radio call sign of an aeronautical station that provides surface movement control at an aerodrome or airport?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Ground</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Delivery</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Dispatch</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Apron</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4277d974-9f1f-2cb7-1d5b-6f60f32296e1",
+            "query": "<span style=\"display: block;\">State the  call sign of an ATS station whose task is to control “ approach control radar arrivals”. Example   Brussels: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Arrival</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Approach.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Control</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Director.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d5e1fc5c-ded4-8b8d-8660-bdc2cb3cddc1",
+            "query": "<span style=\"display: block;\">If proper radio contact has been made and provided no confusion can occur, the aircraft call sign N- 846SN may be abbreviated by the ATS to:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>N-SN and N-6SN</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>N-SN</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>N-6SN</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>6 SN</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1b269a87-0e1c-a29d-193a-2b575e003083",
+            "query": "<span style=\"display: block;\">The registration of your Cessna is “G-AKLS”. Which of the following call sign or call signs may you use when establishing initial contact with an ATS unit?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>G-AKLS or Cessna G-AKLS</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>G-KLS </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Cessna KLS</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>G-LS</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1554e6b6-dc0e-d9f5-5dd6-7f24bfb8be43",
+            "query": "<span style=\"display: block;\">The full call sign of the commercial airliner is SKYE 937.  How may this call sign be abbreviated?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>for this type of call sign no abbreviated form is permitted.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>SKYE 37</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>SIERRA 37</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>937</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "126153d5-7f10-775f-02d5-db0f2476af4a",
+            "query": "<span style=\"display: block;\">The word 'heavy' shall be added to the aircraft call sign : </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>on initial contact with TWR and Approach.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>on initial contact with an ATS unit.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>with each radio voice message.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>departing: with GND, TWR and DEP/APP  arriving: with Radar and APP.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "feb6a6bf-fa67-e182-0199-2734a32d7737",
+            "query": "<span style=\"display: block;\">For safety reasons you were temporarily given a different call sign by ATC.  When the original flight plan call sign can be used again this should be instructed by the ATS unit as follows :</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>change to flight plan call sign.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>return to registration call sign.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>revert to flight plan call sign.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>change back to (registration call sign).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e633d58f-9d3c-749e-d3ec-6d0b1e980ffe",
+            "query": "<span style=\"display: block;\">An aircraft crew may change its original radio call-sign: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>never during flight.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>if the pilot believes that confusion may occur because of other similar call signs in use.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>when changed by the pilot on a revised airborne flight plan.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>only when instructed by ATC because of possible confusion with the call sign of other aircraft.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "300239f9-b9b5-d017-6679-897c5e5a52d9",
+            "query": "<span style=\"display: block;\">When a pilot is instructed to establish two-way radio communication with another ATS unit, which phrase or term will be used to instruct him/her to do so?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>contact</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>call</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>contact frequency .....</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>listen out</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cee584a9-06a1-cadc-1184-f197c0854888",
+            "query": "<span style=\"display: block;\">When a ground ATS station  instructs a flight crew to stay on their frequency, the following term or expression shall be used:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>remain this frequency</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>monitor this frequency</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>continue this frequency</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>maintain this frequency</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d7b28cee-f65d-93e8-3411-530c677e95bf",
+            "query": "<span style=\"display: block;\">Aircraft PH-ABC is making a test transmission with Stephenville TOWER on frequency 118.100. The correct phrasing for this transmission is: Stephenville Tower, (your call sign): </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>readability check</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>radio check</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>radio check on 118.1</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>radio check on COM 1 (or 2)</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "11e67194-e4db-0801-35da-a97d15b45d5a",
+            "query": "<span style=\"display: block;\">If a radio transmission is received \"now and then\", it indicates readability:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>4</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>3</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>2</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>1</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "362f1a5d-8805-882e-a749-be68426d6520",
+            "query": "<span style=\"display: block;\">If a radio transmission is difficult to read (receive), what is then the standard phraseology to make this known?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>readability 2</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>readable now and then</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>hardly readable</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>readability 3</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1c4a1c0c-b913-3184-65bf-25e4ba5ea5e4",
+            "query": "<span style=\"display: block;\">Which elements shall all be read back to the controller?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>runway in use, heading and speed instructions, SSR code, altimeter settings.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>runway in use, heading and speed instructions, cloud base, altimeter settings and runway braking action.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>clearances to land on, take-off from or cross the runway in use, RVR's.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>clearance to land, clearance to enter the runway, expedite taxi, vacate the  runway in use.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "47a58cd0-42ac-e296-cb6e-c5e4a642569c",
+            "query": "<span style=\"display: block;\">Which of the following ATC messages need NOT be completely read back?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>instructions to report when reaching a position or level.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>to back-track or cross a runway.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the runway in use.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>information about QNH, QFE and Transition Level.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a43c0c00-c77a-f2b7-1cfd-6dbef9682a63",
+            "query": "<span style=\"display: block;\">The aircraft is at the holding point, ready for departure. The following clearance is given to the aircraft by the tower controller( TWR) : \"(call sign) line up rwy 09 at (taxiway) November 5\". State the correct phrase to read this back.  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>will line up rwy 09 North 5.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>wilco rwy 09 (at) November 5.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>lining up.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>lining up rwy 09 (at) November 5.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b9029714-dc7a-b9d2-473d-5eca1e4d5a43",
+            "query": "<span style=\"display: block;\">The flight crew receives the following ATC clearances and instructions: to descend to an altitude, to reduce speed, to fly a heading, the current Transition Level and the instruction to report ‘runway in sight’.  Which of these items shall be read back in full? </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>all items must be fully read back.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>all, but not to reduce the speed, the transition level and the instruction to report runway in sight</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>all, but not the transition level and the instruction to report runway in sight.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>all, but not the instruction to report the runway in sight.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "88f011e7-e6f1-da70-b032-26964dcc1d03",
+            "query": "<span style=\"display: block;\">A flight crew or pilot should terminate the read back of an instruction or clearance by:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>its call sign</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>over</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>using the aircraft's registration</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>none of the above</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6389dc14-295c-35df-74eb-7a6157631b0c",
+            "query": "<span style=\"display: block;\"><p>Which of the following is a conditional clearance?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>taxi well behind the Jet, caution jet blast</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>behind the Piper twin on final, line up rwy 27 behind.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>line up rwy 27, be ready for immediate departure.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vacate rwy 27 second exit right.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Behind the company airaft on the right, push back approved</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>report turning baseleg, you are number 2, number 1 is the high-wing turning final.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>line up runway 06 \"in sequence\".</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>caution wake turbulence, runway 06 cleared for takeoff., wait for 2 minutes</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "66259f6c-2302-0cec-7bb9-0dbb491ed870",
+            "query": "<span style=\"display: block;\"><p>ATC asks you during flight about your 'flight conditions'. The correct answer is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>if flying in CAVOK.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>if flying VMC above minimums in visibility and distance to clouds.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>if flying IMC when flying above clouds.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>if flying&nbsp;IMC or VMC.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "90c23404-7bec-66ba-db1b-5397416309aa",
+            "query": "<span style=\"display: block;\"><p>If you are asked: \"report flight conditions\", this means:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>report significant weather conditions such as turbulent wind, poor visibility, heavy rains.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>indicate if you are flying VFR or IFR</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>indicate if visibility is sufficient for landing (RVR).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>indicate whether you are flying IMC or VMC</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "335fdb41-54c8-4bbe-d059-ba4621df63db",
+            "query": "<span style=\"display: block;\">When the ATC instruction is: “(call sign) stop immediately (repeat call sign) stop  immediately”, then the prescribed read back is:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>stopping inmmediately</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>stopping</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>holding</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>holding position</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fd35f083-1969-4bc7-e987-68ef44a9c04a",
+            "query": "<span style=\"display: block;\">When the ATC instruction is: “(call sign) hold position”, then the read back of the pilot should be: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>holding position</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>holding</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>stopping</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>holding short</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e75f5fa0-e0dc-0ad4-c98c-bd0d8495306c",
+            "query": "<span style=\"display: block;\">An aircraft is instructed to: ”taxi via (taxi route and) “hold short of” a location.  What is the correct pilot read back? </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>holding (short)</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>wilco</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>taxi to the hold short line</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>stopping</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a7a0e714-1f5b-29d0-6ca3-528928fa2233",
+            "query": "<span style=\"display: block;\">A pilot wants or needs to make a manoeuvre on the unway in use to turn the aircraft around to taxi in the opposite direction.  State the correct phraseology for this procedure.   </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>back track.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>one-eighty.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>taxi back.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>back-taxi.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "593b9954-3518-de29-84ae-0ce1f8fa167c",
+            "query": "<span style=\"display: block;\">You are instructed to taxi to the holding point of your departure runway without further instructions. To get there you have to cross another runway. There are no stop bars. When are you permitted to cross that runway?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>after receiving ATC clearance to cross that runway.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>prior permission is only required when low visibility procedures apply.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>you may continue to taxi, cross the runway, unless a stop-bar is red or low visibility procedures apply.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>when the stop bar turns green/white.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "23726eff-21fd-6f45-2640-c1045c30a1b4",
+            "query": "<span style=\"display: block;\">How do you request permission to cross a runway and continue to your departure runway when you are at an intersection of an intermediate runway? </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>when holding in front of the intermediate runway:request cross runway (number).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>when on the parking stand/gate:request taxi runway (number).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>ready for departure runway (number).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>request taxi to holding position runway (number).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fdd00b26-8943-d601-506e-ad65ea0b3221",
+            "query": "<span style=\"display: block;\">The tower controller cancels the take off clearance. The takeoff roll has not yet commenced: Hold Position, Cancel Take-Off, I Say Again, Cancel Take-Off.  The read back should be: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>holding</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>holding position</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>holding position, cancelling takeoff</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cancelling take off</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7369c7d1-c4e4-0afe-ea5a-1664796ff468",
+            "query": "<span style=\"display: block;\">You have landed on runway 27R with the instruction to leave the runway via a “backtrack” procedure. What do you say after having vacated this runway?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>KLM 1234, runway 27R vacated.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>KLM 1234, runway 09L vacated.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>KLM 1234, backtracking.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>KLM 1234, runway 09R vacated.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "457bcfb0-1343-182b-a709-07da4ea38d3c",
+            "query": "<span style=\"display: block;\">An ATS unit instructs a pilot to \"ORBIT LEFT [from present position] \". This means that the pilot must:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>make a 360 turn left.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>go around and join a left circuit.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>join a left hand circuit.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>circle the aerodrome.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9e5d1890-9320-8d7f-e58a-33b3370f7803",
+            "query": "<span style=\"display: block;\">When an aircraft is on final and ATC (tower) warns that that crew must continue flying but prepare for a possible Go Around, which phrase should tower use?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>continue approach [prepare for possible go around].</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>overshoot [prepare for possible go around]</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>report over the blocks[prepare for possible go around].</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>extend final [prepare for possible go around].</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b81f6b39-010b-669d-92ff-1754c2e7c01f",
+            "query": "<span style=\"display: block;\"><p>On final a pilot decides not to land but to perform a missed approach instead. How should this be reported to the Tower?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>going around</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>overshooting</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>rejecting or aborting landing</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>missed approach</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "789e671b-c49c-8126-5ed5-00ef494577c2",
+            "query": "<span style=\"display: block;\">On final a pilot decides not to land but to perform a missed approach instead. How should this be reported to the Tower? </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>going around.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>overshooting.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>rejecting landing.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>aborting. </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cd29176c-826b-f36d-6b36-4293fec95622",
+            "query": "<span style=\"display: block;\">Hold Short instructions indicate:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>a taxi clearance to the red line between movement area and manoeuvring area.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>an instruction to taxi up to and hold not closer to a runway than specified (i.e.holding point).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>to hold position where you are now to avoid an incident or accident.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>remain on the runway and expect delay for the takeoff clearance.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f7e6a0e4-7e21-a5c5-ce1c-92f4d50bc46a",
+            "query": "<span style=\"display: block;\">The phrase to use by ATC to instruct a crew to hurry up and operate faster (e.g. climb, descend, taxi, vacate the runway) is:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>expedite.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>increase.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>proceed direct.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>by the most expeditious means.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a608309d-1170-e11c-995f-feb6e6f0f660",
+            "query": "<span style=\"display: block;\">A Conditional Clearance is issued to a crew to permit themto line up on the runway after another aircraft has passed.  The controller’s instruction consists of: (condition) Line Up runway xx (brief repetition of the condition). The read back should be:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>(condition) lining up runway xx (repetition of the condition).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>(condition) line up runway xx.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>line up and wait runway xx.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>ready runway xx, looking out for (traffic).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "25fe05ce-70ce-83d9-383b-b7f01b1329a7",
+            "query": "<span style=\"display: block;\"><p>A Low Pass is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>fly past the control tower or other observation past for the purpose of visual inspection by persons on the ground.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>another word for Low Approach.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a Low Instrument Approach with an agreed minimum level (e.g. “not below 300 ft.”).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a low circuit below the published circuit altitude.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a4f3c8cb-8b84-6c49-a818-e972b12f59c2",
+            "query": "<span style=\"display: block;\">In the visual circuit of a controlled aerodrome the Tower instructs the pilot to “extend downwind”. Which circuit procedure must the pilot perform?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>make a long approach.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>go around.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>make a short approach.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>make long final straight-in.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "140ad144-ac9e-383c-f557-5ec3c02bec76",
+            "query": "<span style=\"display: block;\">A Threshold Base leg Approach is:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>an approach whereby one make a 270 degree turn on the base leg.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>an approach where one aborts an IFR approach at the base turn in order to make a “circling approach”.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a procedure whereby in the traffic circuit one turns to base leg abeam the runway threshold.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>an IFR procedure where one is vectored in order to intercept a “short line-up”  for the instrument approach (ILS).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6c04bada-dd22-4ca5-5123-d48179905b95",
+            "query": "<span style=\"display: block;\">At a controlled aerodrome, right hand downwind  in the circuit shall be reported:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>always in the right hand circuit, except when this circuit is already published in the AIP as a right hand circuit.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>always when in a right hand circuit.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>only when also a left hand circuit is active for the same runway.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>all of the above (a,b and c) are correct.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "90459703-f476-07d0-3fc8-8ed1f14b8e55",
+            "query": "<span style=\"display: block;\"><p>When in a VFR traffic circuit (VMC) a pilot receives his/her landing number from ATC, this number :</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>should be acknowledged by means of \"roger\", followed by call sign.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>indicates if the crew can turn to final or must perform a delaying action.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>indicates the flight is performed under “special VFR” for separ­ation purposes.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>should always be read back to ATC.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4e9509c7-7b00-93fa-b3cc-44f4eefa923a",
+            "query": "<span style=\"display: block;\">A \"Go Around\":</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>is only initiated by ATC in case landing is unsafe.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>means that the pilot has to make a 360 degree turn.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>means that the approach is discontinued shortly before touchdown.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>means that the pilot is making a practise “Low Approach”.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c68a10d0-24b8-549f-d4d0-f49e7a0268eb",
+            "query": "<span style=\"display: block;\"><p>Suppose there is a problem with e.g. the landing gear and the pilot wants to fly past the tower for a visual check, how is this requested?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>request fly-by for visual inspection.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>requestto fly abeam the tower.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>request Low Pass.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>request 'No greens' approach.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "84b56c8b-2f40-76eb-1126-2523c83989de",
+            "query": "<span style=\"display: block;\">You are instructed by ATC to fly a \"mid-runway base leg approach\" (VFR+VMC). This means:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>you are not to land in the touchdown zone but mid-runway.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>you are to join downwind when you are mid-runway.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>that there is no regular downwind leg  baseleg must be joined mid-runway.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>that the pilot must fly a 'two-seventy\" to join the base leg.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c57e4687-16b7-46a8-529b-a0cfded0f315",
+            "query": "<span style=\"display: block;\">To indicate to aerodrome control that an aircraft is ready for takeoff at or approaching the runway, the correct expression is:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>ready for takeoff, or 'ready'.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>ready to line-up.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>request departure.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>ready for departure, or 'ready'.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c2f63ffb-b9df-7677-2cf5-064d4b9eb952",
+            "query": "<span style=\"display: block;\">A pilot abandons a takeoff manoeuvre after the takeoff clearance has been given.  The correct phraseology is:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>stopping.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>stopping immediately.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cancelling takeoff.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cancelling takeoff immediately.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ce355156-baad-dd75-0630-3f7eec61fdea",
+            "query": "<span style=\"display: block;\">You depart from an aerodrome which has no ATIS information.  What should you request?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>request Met information.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>request departure information.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>request ATIS information.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>request departure instructions.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e1881ffd-4d32-ddac-762e-92d6f71d6002",
+            "query": "<span style=\"display: block;\">Which of the following phrases are the correct ones?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>cleared destination, cleared right base.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cleared touch and go, cleared for landing.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cleared for take off, cleared to land.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cleared to hold, cleared for take off.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ce23c020-8e5e-ecc3-d236-acaa247354bd",
+            "query": "<span style=\"display: block;\">You are unable to move your aircraft or to taxi under your own power. How do you request a truck or something to get you e.g. off the taxiway or runway?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>request lift truck.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>request dragline.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>request tow.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>request push back.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a9c30d1e-5570-af02-08e7-3b92e5eade5d",
+            "query": "<span style=\"display: block;\">Certain words may be omitted from transmissions, provided no confusion will result. Which of the following words may not be omitted?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>‘cloud’ in meteorological reports.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>\"degrees’ in relation to surface wind direction and speed.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>'cleared’ in relation to climb or descent instructions from ATC.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>\"feet’ in relation to altitude or height.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "67f80d2d-0ac2-a3b4-b8c6-64640a9286fb",
+            "query": "<span style=\"display: block;\">What instruction will ATC use when an aircraft is in a visual circuit to turn onto base leg (and then final) earlier than normal as published?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>direct to the numbers</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>direct to the threshold.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cleared short approach.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>make 'two-seventy'.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "18862ade-029b-1602-7c5e-d2da3f7629a1",
+            "query": "<span style=\"display: block;\">The interrogation of an aircraft by means of a transponder whereby the aircraft registration, position of the aircraft and altitude read-out of the aircraft is sent back is done by using:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Mode A</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Mode A/C</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Mode C</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Mode A/C/S</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d1ddee12-6388-b0b1-2952-7e4052b7471d",
+            "query": "<span style=\"display: block;\">When ATC transmits the SSR phraseology \"reset\" this means:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>change the assigned code.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>select again the assigned code and mode.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>change from mode C to mode A.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>select transponder code 0000.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "77ed5a81-a481-39a8-55da-7d6336de1319",
+            "query": "<span style=\"display: block;\">What phrase should a radar controller use to tell a flight crew that positive radar identification has been achieved, by means of SSR indication?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>ident</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>radar contact </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>confirmed</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>transmit for identification</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b45bf9ac-74f5-a722-51ab-a2f8f5f7cf73",
+            "query": "<span style=\"display: block;\">What phraseology will ATC use to instruct a flight crew to temporarily suspend using the transponder?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>squawk standby.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>squawk test (TST).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>stop squawk.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>negative squawk.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e5eeb7a8-aca3-b29e-284f-1878dd74393b",
+            "query": "<span style=\"display: block;\">What does the instruction 'squawk Charlie' mean?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>select the mode S function of the transponder.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>activate the transponder when entering the mode C veil</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>confirm you have activated the altitude reporting capability.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>select ‘Alt’ on the transponder to transmit pressure altitude.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d53e438f-d0fe-e016-849e-5ef5abb87372",
+            "query": "<span style=\"display: block;\">What does the instruction 'stop squawk charlie, wrong indication' mean?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>select ‘standby ’on the transponder.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>to select the ‘VFR’ setting or button on the transponder.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>to stop pressure altitude transmission because the radar indication is faulty.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>to start pressure altitude transmission by selecting ‘Alt’ on the transponder.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cc87b18e-4b17-d8a6-fdc8-f9d3ef58daaf",
+            "query": "<span style=\"display: block;\">With the SSR transponder selected at the 'on' position, the ATC instruction 'verify your level' would be made in order to:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>correlate the aircraft registration with the data on the radar.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>have the crew check their altimeter setting.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>check and confirm the accuracy of the mode C level information displayed to the controller.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>check with the pilot or crew that mode C is selected ‘on’.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "63bd9ece-124c-24e1-2d1b-602c9fe84447",
+            "query": "<span style=\"display: block;\">The flight crew has selected a wrong setting on the SSR transponder. ATC is not able to see the altitude of the aircraft on radar.To request transmission of the pressure altitude ATC will instruct the crew to:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>squawk ALT</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>squawk Charlie.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>squawk 1013</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>check altimeter setting and confirm.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3418c209-4889-051f-305b-8a3f72fb2fb0",
+            "query": "<span style=\"display: block;\">The altitude the aircraft is flying is 3500 ft. However, on the SSR radar the altitude of the aircraft shown is 3750 ft. Something is not right. ATC wants to request the crew for a pressure setting check and to report back to them. ATC will request:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>check altimeter setting and confirm.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>check QNH and verify transponder settings.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>transmit ADS-B altitude and standby confirmation.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>re-enter 1013 and verify.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2a3b6063-84fd-b992-ced3-286a62e62f43",
+            "query": "<span style=\"display: block;\">State the phrase ATC uses to instruct a flight crew to : Request to stop ADS-B transmitter operation (for aircraft fitted with ADS-B).</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>stop ADS-B transmission.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>stop squawk ADS-B.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>terminate ADS-B</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>squawk ADS-B standby.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "aeca0a2f-38a2-a0f5-02be-2f6de551e2b3",
+            "query": "<span style=\"display: block;\">The abbreviation VFR stands for:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Visual Flight Rules</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Visual Flight Regulations.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Visual Flight Requirements.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Visual Flight Route.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b5623866-f21b-c706-07be-36be4af5bff7",
+            "query": "<span style=\"display: block;\">The abbreviation VMC stands for:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>VHF Microwave Communications.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>VFR MET Conditions.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Visual Meteorological Conditions.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>VFR Meteorological Conditions.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "624187e9-6a72-1f47-1653-5a8f448d8b63",
+            "query": "<span style=\"display: block;\">Which abbreviation indicates a \"control zone\"?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>CZ</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>CTLZ</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>CTZ</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>CTR</span>",
+                    "format": "html",
+                    "comment": "<p><i>Manually set as correct, might be different from source.</i></p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "6dcbd9cb-613a-f817-e184-7c4a8acb0a6e",
+            "query": "<span style=\"display: block;\">The acronym ATIS stands for:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Automatic Terminal Information Service.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Automatic Traffic Identification System.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Aerodrome Terminal Information Service.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Aerodrome Terrain Information Service.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ce1f690b-1d58-0df9-8e89-eaecdaba31d0",
+            "query": "<span style=\"display: block;\">To report to ATC your en route Flight Conditions when so requested use the abbreviations:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>VMC or IMC.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>VFR or IFR.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>FEW, SCT, BKN or OVC.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>TURB or ICE SEV.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b7581c1c-7524-c52d-0f28-cadc0def1c33",
+            "query": "<span style=\"display: block;\">How is the visibility in an aviation routine weather report (METAR) expressed in plain language? </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>above 5000 m but less than 10 km in kilometre steps</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>up to 1500 m in metres, above in kilometre steps</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>in feet and nautical miles in steps of 500m or half a mile, one mile, one and a half mile etc.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>in Statute miles, in steps of whole miles.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c34545b7-abee-49dc-c954-42c2d7df6d6b",
+            "query": "<span style=\"display: block;\">When the term \"Overcast\" is used in an aviation routine weather report (METAR), the amount of clouds covering the sky is:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>8 oktas.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>50% or more.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>6 oktas or more.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>below CAVOK limits.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "0536d85e-13ad-92fa-0279-c02d131438a1",
+            "query": "<span style=\"display: block;\">When the term \"Scattered\" is used in an aviation routine weather report (METAR), the amount of clouds covering the sky is:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>1 to 2 oktas.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>3 to 4 oktas.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>5 to 6 oktas.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>0 to 3 oktas.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cf5e59a3-78b2-07c3-dcc3-2cf936f66541",
+            "query": "<span style=\"display: block;\">A distress call must be made:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>on 243 MHz at first instant the distress occurs</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>when a PAN MEDICAL is occurring.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>when immediate assistance is required.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>if no radio contact can be made on the frequency in use.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3ec7ddfa-275b-b7d9-2ab2-20c6560a2486",
+            "query": "<span style=\"display: block;\">The safety of a aircraft or even another vehicle, or of some person on board or in sight is threatened, but no immediate assistance is required.  Which procedure shall be initiated by a flight crew?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Urgency.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Distress</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>MAYDAY</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>ALERFA</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2f72b765-7edc-b5b4-184b-c5f8e5906d6d",
+            "query": "<span style=\"display: block;\">URGENCY is defined as a condition:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>concerning the safety of an aircraft or other vehicle or of some person on  board or within sight, but which does not require immediate assistance.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>concerning the safety of an aircraft or other vehicle or of some person on board or within sight,  which requires immediate assistance on the ground.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>of being threatened by serious and/or imminent danger and of requiring  immediate assistance.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>requiring immediate assistance from ground stations because passengers are involved. </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "148dccb5-1a84-8b61-b199-94d036abf81a",
+            "query": "<span style=\"display: block;\">You are flying over a lake and you see a ship on fi­re.  You report this in the following manner:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>MAYDAY MAYDAY MAYDAY on the operational frequency.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>MAYDAY (3x) on distress frequency.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>PAN PAN(3x) preferably on the operational frequency.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>PAN PAN (3x) preferably on the distress frequency.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1290e130-e538-0380-23b4-5caad927a123",
+            "query": "<span style=\"display: block;\">A STAR consist of : </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>a published route and speed limitation and ends when the ILS is intercepted.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a published route and speed limitation and ends at the FAF.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a published  route and speed limitation and usually ends at  the IAF/holding.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a published route and speed limitation and commences at the Initial Approach Fix.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d54fad08-9659-832f-c2cc-04e7ca3dc443",
+            "query": "<span style=\"display: block;\">On a SRA (Surveillance Radar Approach) service, the pilot is given: (1) distances from touchdown. (2) advisory speeds (3) azimuth instructions. (4) advisory altitude or height information.</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>1,2 and 3</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>1,3 and 4</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>2,3 and 4</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>3 and 4</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e752842b-02b7-1f30-8ea7-070af959cce0",
+            "query": "<span style=\"display: block;\">What is an ILS or instrument approach with a “break off” ?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>an approach which is abandoned for a missed approach.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>an approach for an instrument runway which is abandoned as soon as  the runway is in sight, to make a visual straight-in landing on a different runway.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>an instrument approach where one decides at the decision height to abandon the approach.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>an ILS approach which is abandoned because one has strayed outside the localizer beam.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ba3e0c9e-5cba-82b1-cfbb-bff0c79380b4",
+            "query": "<span style=\"display: block;\">IFR aircraft may request permission to make a visual approach only when the: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>IFR flight plan is cancelled.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>flight crew can maintain visual reference to terrain.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>aircraft is flying in VMC.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>aircraft is on a non-precision approach.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "870c8fe7-3f66-6c1b-f874-4d5ee4c0606e",
+            "query": "<span style=\"display: block;\">To indicate to Approach Control that an aircraft is correctly positioned on the centerline of an ILS approach, the term the flight crew should use is:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>established glide path.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>established localizer.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>intercepting the localizer.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>established glide slope</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6d2e3f74-f432-8140-576b-9bd3642c75c9",
+            "query": "<span style=\"display: block;\">A Low Approach is:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>an instrument approach with more than one “dot” below the ideal approach path.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>an approach along or parallel to a  runway descending to an agreed minimum level.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a circling approach below the MDA (Minimum Descent Altitude).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a low visual circuit, also called low downwind.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "71dc1043-329e-b083-51cb-f3213b66d47b",
+            "query": "<span style=\"display: block;\">During a procedure turn over an NDB to execute an ILS approach, what is the term used to describe the first passage over the beacon?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>intercepting localizer.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>intercepting locator.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>turning inbound.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>turning outbound.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6a04f3a3-454d-f5d8-77ed-115980eb90e3",
+            "query": "<span style=\"display: block;\">For a procedure turn or base turn to be executed during normal IFR approaches (there is no Comm failure) the following requirements apply:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>visibility must be VMC, the aircraft must be in level flight.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the aircraft may be in level flight or descending and an approach clearance must have been received.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the aircraft must be in level flight and an approach clearance must have been received.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the aircraft may be in level flight or descending, visibility must be VMC, an approach clearance must have been received.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "88be991c-4987-e470-ee76-d2bbca1ab00a",
+            "query": "<span style=\"display: block;\">You are flying IFR during VMC and experience communication failure. How do you act when following general ICAO rules?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>continue to fly VMC and land at the nearest suitable aerodrome.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>since it is an IFR flight, continue to the flight plan destination.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>divert to the alternate airport when that is nearer than the destination.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>return to the aerodrome you departed from if you are not beyond the half-way point. Remain in VMC.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a31e0e73-3871-533e-b8f6-dd9293deef21",
+            "query": "<span style=\"display: block;\">An aircraft being vectored away from its flight-planned route or having been directed by ATC to proceed offset using RNAV without a specific limit, and then experiencing communications failure, should:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>maintain the last acknowledged heading and speed for 7 minutes and then rejoin the current flight plan route.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>perform a so-called 'dog-leg' procedure to regain the filed flight plan route.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>take the most direct ATS route to the planned destination, taking into account the the applicable minimum safe altitude.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>rejoin the current flight plan route no later than the next significant point, taking into consideration the applicable minimum flight plan altitude.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "18f5b522-6006-c8b2-5c88-c4087d8e310f",
+            "query": "If a normal instrument approach procedure is conducted following communications failure, a landing should be completed within………&amp;...",
+            "format": "html",
+            "options": []
+        },
+        {
+            "uuid": "36430a17-424c-0c5b-a299-e71f7df95709",
+            "query": "<span style=\"display: block;\">You have a sticking transmitter. In practice this means:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>you are nevertheless still able to receive clearances.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>you are able to give position reports using \"blind transmissi­ons\".</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>change communications to CPDLC.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>you cannot receive or send anymore.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "712a9441-f2f2-e41c-9ac3-bf0ee061ec61",
+            "query": "<span style=\"display: block;\">If an aerodrome control tower reports runway conditions as having  “WATER PATCHES”, this means that:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>the runway is damp  there is no risk of aquaplaning. Braking action may be reduced.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>there is no risk of aquaplaning, unless the runway is reported as  “slippery when wet”as well. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>there is no risk of aquaplaning, unless also reported as “WET”.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>there is a risk of aquaplaning.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "073fa21f-ac23-b17a-1c82-8c4737efa79d",
+            "query": "<span style=\"display: block;\">If an aerodrome control tower reports runway conditions as being “WET”, the pilot should assume that:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>there is no risk of aquaplaning, unless the runway is reported as “slippery when wet”.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>there is no risk of aquaplaning.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>there is no risk of aquaplaning, unless also reported as “Grooved”.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>there is a risk of aquaplaning.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e74f55ea-c5f6-03b5-5644-721a4e8d5b46",
+            "query": "<span style=\"display: block;\">If an aerodrome control tower or ATIS reports runway conditions as \"standing water\", the flight crew should assume that:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>water spray may cause engine seizure.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the runway braking action is Medium.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the runway is closed.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>there is a risk of aquaplaning.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cee4efa7-63ea-baaf-27ce-8a10a6d3fa5a",
+            "query": "<span style=\"display: block;\">You receive a TCAS instruction telling you to climb. What must you immediately say to ATC ?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>RA received, climbing FL XXX.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>RA climb now, request advisory.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>TCAS RA.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>TCAS climb, leaving FL XXX climbing to FL XXX.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f753936f-fe82-bed4-c0b9-72ba79c21abd",
+            "query": "<span style=\"display: block;\">The crew had  to make a sudden level change because of a TCAS/ACAS warning .  The situation is now resolved. How should a flight crew report to ATC that the ACAS \"clear of conflict\" has been given and the crew are starting their return to their original level?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>TCAS resolution resolved, climbing/descending to (assigned level).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>clear of conflict, returning to (assigned level).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>leaving TCAS level, returning to flight plan level.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>TCAS ended, resuming (assigned level).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bfff7871-09d7-61c8-75c8-5dcaf19a12ca",
+            "query": "<span style=\"display: block;\">The crew had  to make a sudden level change because of a TCAS warning followed by a climb or descent instruction. The situation is resolved and the flight is back at the cleared level. How shall they report to ATC that they have returned to their cleared level? </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>TCAS resolved, maintaining flight plan level.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>TCAS climb (descent) completed, maintaining (assigned clearance/FLXXX).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>clear of conflict, (assigned level/altitude) resumed.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>clear of conflict, resuming own navigation.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b2d798d6-66e5-8bd9-a147-bf858b65cdc8",
+            "query": "<span style=\"display: block;\">What does 'RA' stand for in a TCAS RA when the crew is told to climb? </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Resolution Advisory.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Resolve Advisory.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Resolution Advice</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>adjust Rate of Ascent.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "334fa60e-8466-eb36-d750-7dd2798b03af",
+            "query": "<span style=\"display: block;\">The phrase  ‘take off’ is used only when an aircraft is cleared for take off or when cancelling a take off clearance.  At all other times the following 2 words or phrases shall be used: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>airborne and clear</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>climb-out and departure</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>take Off Leg and departure</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>departure and airborne</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2ce17850-5c18-7610-1cda-2490e3d3201d",
+            "query": "<span style=\"display: block;\">If it is uncertain whether the pilot can comply with an ATC clearance, the controller will use:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>if unable advise.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cancel.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>if unable to comply, cancel clearance.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>if not possible to comply advise.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ef15fb93-f9b9-9a64-b3bd-a7930a346317",
+            "query": "<span style=\"display: block;\">When the ATC instruction is: “(call sign) stop immediately (repeat call sign) stop  immediately”, then the prescribed read back should be:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>stopping.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>stopping immediately.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>holding.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>holding position.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9a3f0655-8f1e-07f6-e695-0403bc162d81",
+            "query": "<span style=\"display: block;\">State the correct combination of the two phraseologies ATC may choose from to instruct the pilot to follow a specific track after take-off:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>track extended centre line or: climb straight ahead</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>track extended centre line or: continue runway heading.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>continue runway heading or: continue runway track.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>continue runway heading or: extend take-off leg.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d493d7da-a521-aedb-d3a6-91d466e70b34",
+            "query": "<span style=\"display: block;\">When you are told to stop suddenly during ground manoeuvring the instruction will be:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>position and hold.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>hold position.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>hold in position.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>hold short.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ad73038b-e3cb-8e6a-8ed3-6444f26478ab",
+            "query": "<span style=\"display: block;\">During ground movements, ATC instructs a flight crew: \"(caution), taxi slower\". The read back of the crew should be:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>wilco.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>slowing down.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>decreasing.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>taxi slower.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "38604eba-ae4f-faf7-d755-3988765010f9",
+            "query": "<span style=\"display: block;\">You are being vectored by a radar service. On completion, the controller will say:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>resume own navigation.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>vectoring completed, radar services terminated.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>fly heading XXX.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>proceed on course.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dbce2aba-4b02-5250-0333-8fb70ee89109",
+            "query": "<span style=\"display: block;\">You have been intercepted by a (foreign) military aircraft and you have established two-way radio contact with its crew. How do you indicate that you are lost?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>am lost.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>request position.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>request course guidance.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>position unknown.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6d7855d3-3c27-50fb-6495-9abf63bac6a1",
+            "query": "<span style=\"display: block;\">During approach you receive the following phrase from ATC, “Continue approach\" which means: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>you can continue the approach to the OM or the 4-mile final point.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>you can continue the approach to final.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>you can continue the approach to the FAP.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>you can continue the approach to the runway  but you are not cleared to land.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "58c5ed4f-c105-d0ea-9846-f5b2b5b7d03b",
+            "query": "<span style=\"display: block;\">During an IFR approach to a controlled aerodrome the relevant ATIS code l­e­t­ter  should be mentioned to:   </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Approach.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Tower.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>both Approach and Tower.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Tower and Delivery.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ed7b553f-49b0-7b02-9da8-1e0d79c0be1f",
+            "query": "<span style=\"display: block;\">The instruction \"omit position reports\" means:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>resume position reporting.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>check your position.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>compulsory reporting point.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>leave out further position reports.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8da8ddb0-9338-6d2d-8f81-fea203d60af5",
+            "query": "<span style=\"display: block;\">When ATC instructs the crew on an IFR flight to fly parallel to the left or the right of the desired track this will be instructed using:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>fly right/left abeam track/route.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>turn left /right X degrees to the left/right.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>track extended centre line (to the left or to the right).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>proceed parallel offset (left or right).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c8704277-27a2-1bb2-321a-e4178d14375b",
+            "query": "<span style=\"display: block;\">Sometimes a flight crew is requested to select a frequency when it is intended that the ATS unit will initiate communications soon and the crew should not contact them.  This is requested by the ATS unit as follows:\"............ (unit call sign) (frequency):  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>monitor</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>listen out</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>stand by for</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>remain</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "07378420-f690-3f0a-6085-9f17e64f513f",
+            "query": "<span style=\"display: block;\">To acknowledge relevant traffic information received from ATC, the crew should transmit:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>confirm.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>copied.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>looking out.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>wilco.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dbe7fc14-b6bc-c7da-5493-c2ea53778c81",
+            "query": "<span style=\"display: block;\">What phrase will ATC unit use to instruct a flight (level, climbing or descending) to be at or pass a certain sginificant point at a certain assigned level?  \"(call sign aircraft), ..................(significant point) AT (or ABOVE, or BELOW(level XX):  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>pass</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>intersect</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cross</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>maintain</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f417fd18-26b3-f4a3-f671-e2940d6b8c08",
+            "query": "<span style=\"display: block;\">The ATC instruction to climb out after departure and 'Track Extended Centre Line\" means:   </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>intercept the outbound track of the radio beacon servicing that runway.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>maintain the runway track  correct for wind.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>maintain the runway heading  do not correct for wind.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>climb out on the published track of the SID.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "62b46f7f-f549-149d-e927-fc4f4b821f41",
+            "query": "<span style=\"display: block;\">When ATC allows a flight crew to perform an action without a restriction as to when and it is up to the crew to commence the action, this will be approved by ATC stating:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>at own discretion.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>ATC released.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>no restrictions, report ………</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cleared xxxx, advise when ……….</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f3867971-83a5-b7fd-3d20-b0b83f6ac069",
+            "query": "<span style=\"display: block;\">What phrase will ATC use to warn a flight crew of the wake vortices of near-by or preceding heavy aircraft?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>caution Jet Blast.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>caution Wake Turbulence.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>increase spacing due wake.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>look out, moderate/heavy turbulence.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "42997829-2194-817c-d32c-aa3a0fb4335e",
+            "query": "<span style=\"display: block;\">When ATC needs to correct or amend a CPDLC message that was sent, how  will ATC inform a flight crew by radio?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>disregard CPDLC (clearance or message), break, (reclearance or revised message).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>cancel CPDLC clearance, acknowledge (reclearance or revised message).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>due CPDLC failure (clearance or message) incorrect, confirm (reclearance or revised message).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>due CPDLC failure cancel (clearance or message), advise ready to copy (reclearance or revised message).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2ca350ab-d034-6f3c-bd36-9beced6a3bc9",
+            "query": "<span style=\"display: block;\">What is SSR an abbreviation of ?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Secondary Surveillance Radar.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Secondary Select Radio beacon (transponder).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Standard Surveillance Radar.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Standard Sub-scale Reading.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "0d15d09c-e5e7-ac2b-035f-ef42c9246bf9",
+            "query": "<span style=\"display: block;\">SRA stands for:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Standard Radio Altimeter.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Surveillance Range Approach.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Standard Arrival Route.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Surveillance Radar Approach.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1a06eef3-0ea4-f42a-8019-64ef59a78430",
+            "query": "<span style=\"display: block;\">The abbreviation EAT stands for:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Estimated Arrival Time.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Expected Arrival Time.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Estimated Approach Time.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Expected Approach Time.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a993342b-0b5b-ab0f-5816-5f03f4dde8c2",
+            "query": "<span style=\"display: block;\">The acronym ACARS stands for:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Aircraft Communication and Reporting System.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Aircraft Communication and Recording System.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Aircraft Rescue System.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>ADS Communication Reporting System. </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2015f82f-658e-ddfb-a064-0b5b91f69520",
+            "query": "<span style=\"display: block;\">The abbreviation ADS stands for:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Aerodrome Departure Service</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Automatic Dependent Surveillance.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Augmented Departure Surveillance.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Automated Departure Surveillance.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "728fc153-4422-dff1-cd9b-f9b735176ea4",
+            "query": "<span style=\"display: block;\">State the correct definition of a visual approach. </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>An approach executed by an IFR flight at the destination if the conditions are equal to or better than the VMC minima. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>An approach where only part of an instrument procedure is flown with the remaining part of the flight flown visually with reference to terrain. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Flying a VFR traffic circuit in IMC conditions. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Landing in VMC on an IFR flight after the approach clearance has been received and acknowledged.  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "314fd106-f650-ea4b-95c5-14005826212c",
+            "query": "<span style=\"display: block;\">A low approach is: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>an instrument approach maximally one \"dot\" below the ideal approach path.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>an approach along or parallel to a runway descending to an agreed minimum level.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a circling approach below the MDA (Minimum Descent Altitude).</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>an instrument approach path that descends below the required glide path of 3 degrees resulting in an 'undershoot'.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d795c9ca-8c52-9c44-f633-a75badcf0111",
+            "query": "<span style=\"display: block;\">An aeronautical station is:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>an airborne station in the aeronautical mobile service.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a land station in the aeronautical mobile service, but may be located on a platform at sea.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a radio beacon or navaid on the ground or on a platform at sea.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>an automated broadcast service of current, routine information to arriving and departing aircraft.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ded4b6d6-d941-941e-4565-2f6a64475038",
+            "query": "<span style=\"display: block;\">What is 'Air-Ground' communication?  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>two-way radio communication between aircraft stations or locations on the surface of the earth.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>one-way communication from the aeronautical station to a station or location on the ground surface.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the principle of direction finding using the appropriate VHF frequencies.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>listening to an automatic terminal broadcast from an aircraft.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c7fb436a-750c-57e8-e582-759eee84fe7f",
+            "query": "<span style=\"display: block;\">Read Back is:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>the procedure whereby the receiving station (usually the aircraft) repeats a message or relevant part of that message to the sending station in order to obtain confirmation of correct reception.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the procedure whereby the audio feed-back of the station receiving the signal disturbs reception of the message.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the request from air traffic control to verify information with another station, such as the airline operator or owner.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the request from a flight crew to the ground station to repeat the original message because it was not properly received.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "36c5a41a-bb41-c9f6-d7a4-eba0cda1af9e",
+            "query": "<span style=\"display: block;\">DUPLEX communication is a method in which:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>telecommunication between two stations can take place in both directions simultaneously.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>telecommunication between two stations can take place in only one direction at a time.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a message is received via a navigation aid such as a VOR (VHF radio station) and the message is sent through another channel.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a message is received through one radio set and the answer is transmitted using a navigation aid such as a VOR (VHF radio station).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6a480567-3b60-1b06-1659-8f9d59a1c799",
+            "query": "<span style=\"display: block;\">SIMPLEX communication is a method in which:  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>telecommunication between two stations can take place in one direction at a time.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>telecommunication between two stations can take place in both directions simultaneously.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a message is sent to aircraft using a navigation aid such as a VOR (VHF radio station). </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>a message is received through one radio set and the answer is transmitted using a navigation aid such as a VOR (VHF radio station).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3e1b3f63-95b3-dcbe-cd34-ea556a2b8105",
+            "query": "<span style=\"display: block;\">State the correct definition of \"Broadcast\".  </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>a transmission of information relating to air navigation that is not addressed to specific station or stations.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>ground-to-air-communication.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the homing procedure in air navigation.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>inter pilot air-to-air communication engaged in flights over remote areas out of range of VHF stations to exchange necessary operational information and to solve operational problems.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8e7a1b05-eed6-0916-bed3-f9b10833b9db",
+            "query": "<span style=\"display: block;\"><p>Heading 100 shall be pronounced: \"Heading........</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>one hundred</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>one zero zero</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SE hundred</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>one hundred degrees</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "60f963bd-c4cd-8125-decb-0dffded53e1f",
+            "query": "<span style=\"display: block;\"><p>heading&nbsp;270&nbsp;shall be pronounced: \"heading.....................\"</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>two seventy degrees</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>two seven zero</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>two hundred seventy</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>west two seventy</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dc23e8b2-420d-edf2-9aba-2fda731c0d97",
+            "query": "<span style=\"display: block;\"><p>When a pilot reports an ACAS (TCAS) RA, the controller shall not try to modify the aircraft's flight path until the pilot reports:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>returning to (cleared) FL xxx</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>traffic in sight, FLxxx resumed</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>FL xxx resumed, operations normal</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>clear of conflict</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        }
+    ]
+}

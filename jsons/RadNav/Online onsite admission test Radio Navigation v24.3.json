@@ -1,0 +1,4006 @@
+{
+    "uuid": "73a71bd8-a705-4c0c-961f-76ada9e0e3f2",
+    "title": "Online onsite admission test Radio Navigation v24.3",
+    "questions": [
+        {
+            "uuid": "359714a2-0be4-7ceb-a595-509a9fd737bb",
+            "query": "<span style=\"display: block;\"><p>The DME installation&nbsp;of an aircraft flying at FL430 calculates&nbsp;a slant range of 15 NM from a beacon with an elevation of 167 ft.</p><p>The plan range is…</p><p>&nbsp;</p><p>Note: ISA condtions.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>13.2 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>16.5 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>15.0 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>14.6 NM.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6490135c-64c1-7a72-c637-b1a29ee398b4",
+            "query": "<span style=\"display: block;\"><p>Amplitude Modulation (AM) is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>making sure the amplitude of the radio signal does not decrease with distance.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>maintaining a modulation depth of 100%.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>AM is varying the amplitude of the carrier wave to transmit information.</p>"
+                },
+                {
+                    "text": "<span><p>varying the amplitude of the carrier wave to transmit information.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>amplifying the amplitude of the received signal before being sent to the headset or loudspeaker.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "5205b25a-9030-eb6e-21ee-393b18e7fb31",
+            "query": "<span style=\"display: block;\"><p>When the modulation&nbsp;depth (M)&nbsp;is 100%…</p><ol><li>The amplitude of the modulation signal is the same as the amplitude of the carrier wave.</li><li>The carrier wave is fully suppressed and can no longer be received.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Only statement 1 is true; statement 2 is false.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Only statement 1 is false; statement 2 is true.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Both statements are true.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Both statements are false.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dc11d132-e26d-c877-4ddf-4ca7dd6a23b2",
+            "query": "<span style=\"display: block;\"><p>The range of an airborne based&nbsp;VHF-COM transmitter&nbsp;<u>mainly</u> depends on the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>elevation of the antenna of the ground based receiver.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>condition of the earth surface the radio waves have to travel along.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>flying altitude.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>transmission power.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "df828041-5886-f928-f9be-2078b7964db4",
+            "query": "<span style=\"display: block;\"><p>FM is less sensitive to atmospheric disturbances than AM because...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>FM uses a larger bandwidth.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>FM radio waves use shorter wavelengths.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>FM&nbsp;signals are not sensitive to amplitude variations.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>FM uses frequencies in excess of 30 MHz.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "52a87cc0-00e7-c46f-2132-75cde447fb8b",
+            "query": "<span style=\"display: block;\"><p>The Doppler effect occurs when...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>during dawn and twilight.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>direct wave and&nbsp;reflected wave starts to interfere.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>radio signals are refracted by the the ionosphere.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>"
+                },
+                {
+                    "text": "<span><p>transmitter and&nbsp;receiver have a relative speed.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "54d82646-6b73-4bef-29c2-42d76827cd4e",
+            "query": "<span style=\"display: block;\"><p>The propagation speed&nbsp;of radio waves is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>300 000 km/h but only at 15 deg C.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>300 m/s depending&nbsp;on the temperature.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>300 000 km/s regardless of temperature.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>300 kt&nbsp;but only at ISA MSL.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f6ef652c-3a7c-3f18-7f84-5d85fdc83607",
+            "query": "<span style=\"display: block;\"><p>Pulse Amplitude Modulation (PAM) is applied in case of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>DME.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>PSR.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SSR.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>MLS.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1585681d-ca8c-6d3e-6af3-0c0138a0f2cc",
+            "query": "<span style=\"display: block;\"><p>A vertical antenna has...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>one&nbsp;\"null\" and two \"lobes\".</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>two \"nulls\" and two \"lobes\".</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>two \"nulls\" and one \"lobe\".</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>one \"null\" and one \"lobe\".</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "abe3e27e-7477-4571-41ce-4cc8f43d0627",
+            "query": "<span style=\"display: block;\"><p>A vertical dipole&nbsp;antenna has a polar diagram in the shape of a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>circle.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>figure-of-eight.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>doughnut.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>cardiod.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7f79cd04-8279-599c-1960-3ecb0862fad9",
+            "query": "<span style=\"display: block;\"><p>The polarisation of a vertical antenna is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>vertical due to the&nbsp;E-field.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>horizontal due to&nbsp;the M-field.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>horizontal due to&nbsp;the E-field.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vertical due to the&nbsp;M-field.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b325cd6b-1f19-5b15-f4e6-8896ee22f254",
+            "query": "<span style=\"display: block;\"><p>The polarisation of a horizontal antenna is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>vertical due to the E-field.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vertical due to the M-field.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>horizontal due&nbsp;to the M-field.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>horizontal due to the E-field.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "7a9f0843-3806-c02a-a4e7-c6233684b12e",
+            "query": "<span style=\"display: block;\"><p>An ADF&nbsp;sense antenna has a polar diagram in the shape of a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>fan.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>circle.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>figure-of eight.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>cardiod.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "5016b3e6-adf1-a5bb-0b3d-6aa897895b75",
+            "query": "<span style=\"display: block;\"><p>The area between the two \"nulls\" of an antenna diagram is called...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>dead zone.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>cone of silence.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>cone of confusion.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>lobe.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "a923d18f-984c-1579-ff6b-27f9f3e732ae",
+            "query": "<span style=\"display: block;\"><p>What would be the length of a&nbsp;monopole antenna which is suited for 1000 MHz?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>60 cm</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>30 cm</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>15 cm</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>7.5 cm</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "d3886ee5-cf9d-8e17-57b4-a32bb2f87175",
+            "query": "<span style=\"display: block;\"><p>The polarisation&nbsp;of&nbsp;radio&nbsp;waves...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>remains constant under all circumstances.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>may under special circumstances&nbsp;change from vertical to horizontal or vice versa.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>is circular in case of a rotating horizontal antenna.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>starts to rotate as soon as the signal leaves the antenna.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9e154396-d6fb-95b3-d731-8a5f2cbfc22f",
+            "query": "<span style=\"display: block;\"><p>VHF radio waves are...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>refracted&nbsp;by&nbsp;the ionosphere's&nbsp;D-layer.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>VHF radio waves are not refracted&nbsp;by the different&nbsp;ionosphere layers because of their high frequency (&gt;30 MHz).</p>"
+                },
+                {
+                    "text": "<span><p>reflected by the ionosphere's&nbsp;E-layer.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>absorbed by the ionosphere's&nbsp;F1 and F2-layer.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>passed through the ionosphere.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "9b5ba00d-49b2-0c7e-ca36-cbb5da034d17",
+            "query": "<span style=\"display: block;\"><p>Radio waves without&nbsp;skywaves exist...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>at frequencies&nbsp;with wavelengths over 10 meters.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Skywaves exist until 30 MHz which equals wavelengths of more than 10 m.</p>    <p>Therefore, no skywaves for frequencies less than 10 m.</p>"
+                },
+                {
+                    "text": "<span><p>at all radio frequencies.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>at frequencies with wavelengths less than 10 meters.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>at lower radio frequencies.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a6ba8d0b-c195-753a-3018-c90ba52f1151",
+            "query": "<span style=\"display: block;\"><p>The skip distance (or skip zone) is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>influenced by the degree of cloud coverage of the sky.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the safe distance to a high power radio transmitter.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the ground&nbsp;distance where the radio station cannot be received.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>depending on&nbsp;the altitude of the ionosphere layers.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a5079172-3d07-ac60-d1f3-922a42630756",
+            "query": "<span style=\"display: block;\"><p>Radio waves that refract by&nbsp;the ionosphere are those with frequencies...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>in the VLF, LF, MF and HF band.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>above the critical frequency f<sub>C</sub>.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>with wavelengths&nbsp;below 1000 m.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>having vertical polarised antennas.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>    <p>Frequencies must be below 30 MHz.</p>"
+                }
+            ]
+        },
+        {
+            "uuid": "110083f9-c42b-e383-2b31-2ff5c9be1906",
+            "query": "<span style=\"display: block;\"><p>Bonus question!</p><p>Als je deze goed hebt, mag je een andere fout beantwoorde vraag terugtrekken!</p><p>&nbsp;</p><p>A radio transmitter has a frequency of 2 MHz and the transmitting power for a range of 1000 wavelengths.</p><p>If during a transmission in the night the F-layer (no E and D layers) is at an altitude of 300 km, and the critical angle of incidence is 21º, the distance of the <u>skip zone</u> is approximately...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>80 km.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>115 km.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>150 km.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>230 km.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d4511c77-5d57-5e45-1c47-7a473709928d",
+            "query": "<span style=\"display: block;\"><p>The range of&nbsp;surface waves...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>increases&nbsp;with&nbsp;the transmission frequency.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>increases linearly with the transmission&nbsp;power.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is the highest in the VLF/LF/MF-band.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is higher during night due to the condition of the ionosphere.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fcf3893c-b676-967f-8679-15499dd6ab8e",
+            "query": "<span style=\"display: block;\"><p>When comparing with linear (vertical or horizontal) polarised antennas, circular polarised&nbsp;antennas...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>suffer&nbsp;less from absorption&nbsp;by the earth surface.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>follow&nbsp;the curvature&nbsp;of the earth.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>are reflected by the ionsophere.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>are less sensitive to the attitude of the aircraft.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "d3bb6444-b876-a7c6-a912-e20a438ac6b4",
+            "query": "<span style=\"display: block;\"><p>Regarding direction finding, a Class-C bearing is accurate within plus or minus...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 (one) degrees.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2 (two) degrees.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>5 (five) degrees.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>10 (ten) degrees.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "8840cfcb-ed0d-4717-8b5d-f89fd364e3db",
+            "query": "<span style=\"display: block;\"><p>When you have lost your position, you may request a [...] to receive a radio fix.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>QTE.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>QNH.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>QFE.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>QTF.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "368c5d06-baba-1479-4959-1a69cf19b004",
+            "query": "<span style=\"display: block;\"><p>The indicator of the ground VDF equipment responds&nbsp;to the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>signal being reflected from the aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>carrier wave received.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>identification transmitted from the aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>voice modulated signal transmitted by the aircraft.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f7e0d6ab-c49a-a1ad-cc2a-29191e0fe2b2",
+            "query": "<span style=\"display: block;\"><p>QDR is the magnetic...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>bearing of an aircraft&nbsp;taken by a ground station.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>correct</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>radial of&nbsp;an aircraft taken by a VOR station.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>heading of an aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>track of an aircraft.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "92694d95-3933-91af-f7e4-d3985ef66b30",
+            "query": "<span style=\"display: block;\"><p>Which of the following&nbsp;radio systems is used by ATC to provide ground direction finding?</p><ol><li>VDF;</li><li>ADF;</li><li>NDB;</li><li>VOR.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1 and 2.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3 and 4.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cc1d8162-910f-54e4-356f-be79db69eee5",
+            "query": "<span style=\"display: block;\"><p>&nbsp;When the controller provides a QDM&nbsp;180&nbsp;Class-A, the given&nbsp;bearing is&nbsp;within...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>178 and 182 degrees.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>179.5 and 180.5 degrees.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>179 and 181 degrees.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>175 and 185 degrees.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bee29a27-05a7-74c2-a24b-d0c23e8aaf7a",
+            "query": "<span style=\"display: block;\"><p>The transmission of a Locator NDB is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a N0N/A3 signal&nbsp;with a voice ident once per minute.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a N0N/A2 signal with a reduced transmission power.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a N0N/A1 signal with a one-letter Morse ident.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a N0N signal because the signal is non-directional.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c0883d42-4091-38cc-13a8-0bd1cc460ca0",
+            "query": "<span style=\"display: block;\"><p>Which antenna(s) are used&nbsp;when the mode switch on the ADF control panel&nbsp;is set to the ANT mode to improve the audio reception?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Both the sense and the loop antenna.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Only the loop antenna.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Only the sense antenna.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Nor the sense antenna, nor the loop&nbsp;antenna.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7ec7027d-94bd-6c5c-8458-9c3c58856aa9",
+            "query": "<span style=\"display: block;\"><p>Which statement is true for an airway NDB?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>An airway NDB&nbsp;transmits omni-directional information.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The range&nbsp;of airway NDB's&nbsp;is limited to the radio horizon.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The accuracy of the line of position (LOP) received from an airway NDB is less during sunrise and sunset.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The range of an airway NDB&nbsp;is more than the range of a Terminal VOR.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6b576a34-479f-93f9-f5a3-5de33bd7e410",
+            "query": "<span style=\"display: block;\"><p>Which of the following statements about ADF and/or NDB is correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The BFO is a&nbsp;component of the ADF.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The only purpose of the vertical sense antenna is to enable the ADF to receive the ident.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The quadrantal error is caused by disturbances in the propagation path crossing the coast.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The frequency band is limited to 190 - 450 kHz.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1c36af45-b96f-0062-56f4-de9632cbc826",
+            "query": "<span style=\"display: block;\"><p>Which of the following statements regarding NDB's is correct?</p><ol><li>Locators always&nbsp;transmits non-directional;</li><li>Radio Broadcast Stations can always be used for NBD navigation;</li><li>Oceanic NDB's can never&nbsp;be found at land.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Only 1</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1 + 2</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2 + 3</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 + 2 + 3</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2fc69339-5083-da96-330f-cfd3a6bf0ea2",
+            "query": "<span style=\"display: block;\"><p>What is the minimum number of&nbsp;NDB's to take a QTF?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>3</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>4</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b736df1a-f7b5-f7ae-bc38-e520b9ac9a99",
+            "query": "<span style=\"display: block;\"><p>An important difference between an Airway NDB and a Locator NDB&nbsp;is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>transmission&nbsp;power: airway NDB's transmit&nbsp;more&nbsp;power; locator NDB's transmit&nbsp;less&nbsp;power.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>radiation pattern: airway NDB's transmits non-directional; locator NDB's transmits directional.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>siting: airway NDB's outside airports; locator NDB's at airports.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>frequency band: airway NDB's between 190-1750 kHz; locator NDB's between 108-118&nbsp;MHz.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "176f68cb-11d9-6960-7a66-b98644773c12",
+            "query": "<span style=\"display: block;\"><p>The accuracy of an NDB&nbsp;bearing is affected by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>radio noise, Doppler effect and deviation error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>precipitation static, mountain effect and turning error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>thunderstorms, night effect and quadrantal error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>heavy snow and rain, coastal effect and dip error.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9149996e-0d4d-87a0-1496-a069d8280f6d",
+            "query": "<span style=\"display: block;\"><p>Which of the following alternatives results in&nbsp;the worst ADF bearing error?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Quadrantal error</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Coastal refraction</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Precipitation static</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Local thunderstorms</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>    <p>TS may lead to more than 90 degrees bearing errors.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "8099f916-6ee9-0638-301c-682bcd63e7cd",
+            "query": "<span style=\"display: block;\"><p>Given:</p><p>A&nbsp;small aircraft with a cruising speed of 100 kt.</p><p>The aircraft is equipped with a two-pointer RMI.</p><p>The single pointer shows the tuned NDB, and the double pointer shows the tuned&nbsp;VOR.</p><p>&nbsp;</p><p>When the aircraft makes a smooth&nbsp;360 degrees turn&nbsp;on a distance of 60 NM from the beacons then...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The single pointer as well as the double pointer&nbsp;will keep the same indication on the compassrose.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The single pointer&nbsp;will keep the same indication on the compass rose; the double pointer&nbsp;will change its indication.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The double pointer will keep the same indication on the compass rose;&nbsp;the single pointer will change its indication.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The indication of both pointers on the compass rose&nbsp;will change.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "976e86d1-098d-3860-04d5-e4282c055faa",
+            "query": "<span style=\"display: block;\"><p>Which statement regarding the&nbsp;parking position of an ADF needle is correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The indicator shows a flag warning.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The needle goes off-scale.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The needle is at a&nbsp;90 degrees RB position.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The needle&nbsp;has an erratic indication.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b5dec5b2-8685-582a-7e44-b5d9467dc984",
+            "query": "<span style=\"display: block;\"><p>Given an HSI:</p><ul><li>CRS&nbsp;at 270;</li><li>CDI at the left inner dot;</li><li>T/F&nbsp;at TO.</li></ul><p>The aircraft is on radial...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>085.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>095.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>265.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>275.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "72b42621-1bd6-1561-88d3-9bee1c588327",
+            "query": "<span style=\"display: block;\"><p>The reception of a VOT will result in an RMI indication, that is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>dependent of the selected radial.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>dependent of the position of the aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>360 at&nbsp;the tip of the&nbsp;needle.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>180&nbsp;at the tip of the needle.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "b437519d-0645-5701-7c9d-7d9158d94928",
+            "query": "<span style=\"display: block;\"><p>The accuracy of the VOR is reduced by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the night effect.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the quadrantal error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>lightning.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>site errors.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "c977e97f-adcd-a857-6ee3-0ddb995dedc7",
+            "query": "<span style=\"display: block;\"><p>Given:</p><ul><li>an aircraft tracks radial 315° inbound to a VOR station;</li><li>the drift is 5°L;</li><li>the relative bearing of an NDB is 60°R.</li></ul><p>The indication on the RMI will be (dev = 0)...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>VOR 315° NDB 015°.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>VOR 135° NDB 200°.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>VOR 315° NDB 010°</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>VOR 135° NDB 190°.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "0b772447-ccef-d1b2-3e0a-294e86a86a46",
+            "query": "<span style=\"display: block;\"><p>In aircraft, a bearing of a VOR station can be taken by the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>NAV receiver.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>DME receiver.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>VDF receiver.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ADF receiver.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "20790b54-4195-5107-4bd5-17cdf34970b7",
+            "query": "<span style=\"display: block;\"><p>Given:</p><ul><li>At VOR TCK (65°13.7'N, 155°21.1'W) the magnetic variation is 24°E;</li><li>The DR of the aircraft is (64°10.0'N, 152°25.0'W);</li><li>The magnetic variation 22°E;</li><li>The deviation is -1°;</li><li>The heading on the HSI is 255°;</li><li>The CRS is 290° and the CDI is on the left inner dot;</li><li>At the moment that the TO/FR indicator changes, the course deviation bar is completely to the right.</li></ul><p>On which radial is the aircraft at that moment?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>200.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>020.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>200.</p>"
+                },
+                {
+                    "text": "<span><p>120.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>100.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "787038ac-a24f-3ee0-d19a-88820c9e4073",
+            "query": "<span style=\"display: block;\"><p>Which of the following statements is true for&nbsp;a conventional airway&nbsp;VOR?</p><ol><li>The fixed omni-directional antenna transmits&nbsp;a VHF-carrier wave with the following modulations: a&nbsp;30 Hz AM reference signa, and a 1020 Hz AM Ident.</li><li>The rotating directional antenna transmits&nbsp;a VHF-carrier wave with a 30 Hz FM variable signal.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><ol>   <li>False;</li>   <li>False.</li>  </ol>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><ol>   <li>True;</li>   <li>False.</li>  </ol>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol>   <li>False;</li>   <li>True,</li>  </ol>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol>   <li>True;</li>   <li>True.</li>  </ol>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3ade22f9-fab6-ecdf-f4e8-1473e0e768b2",
+            "query": "<span style=\"display: block;\"><p>The difference between CVOR and TVOR is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>A CVOR transmits omni-directional 360 radials; a&nbsp;TVOR transmits&nbsp;non-directional 1 radial.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A TVOR sets the limits of TMA's; a CVOR sets the limits of&nbsp;CTA's.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A TVOR&nbsp;is a&nbsp;low power&nbsp;CVOR situated near aerodromes.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>A CVOR is used in combination with&nbsp;ILS; a TVOR is used in combination with MLS.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3809b5cf-e8f1-d6b9-68d9-d12b935f3be0",
+            "query": "<span style=\"display: block;\"><p>The 'site errors' around a VOR are...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>negligible at a TVOR due to the smaller range.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>not present at a CVOR due to the 'counterpoise'.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>are very small due to the application of vertical polarised antennas.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>smaller for&nbsp;a DVOR than for&nbsp;a CVOR due to the antenna system.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "84e38e29-57c7-5b37-44cf-a3a4d7c99837",
+            "query": "<span style=\"display: block;\"><p>Which two-statement answer&nbsp;regarding&nbsp;VOR is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The range is line-of-sight, and the transmission frequency is in the UHF-band.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The capacity of the system is unlimited, and&nbsp;there is no ambiguity.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The line-of-position is a radial, and&nbsp;the accuracy of a CVOR and a DVOR are equal.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A full-scale-deflection is five degrees, and&nbsp;the transmission power is the same for all kinds of VOR stations.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "22a22637-d596-0f11-e925-bbd68bf34324",
+            "query": "<span style=\"display: block;\"><p>System- or beacon saturation of the DME system...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>can be avoided by increasing&nbsp;the station delay time from 50 to150 microseconds.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is solved by introducing&nbsp;X- and Y-channels, resulting in 252 available interrogation frequencies.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>occurs when more than 90 aircraft are demanding replies from one single ground station.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>occurs when the flight crew forgets to select the DME from the 'search mode' to the 'standby mode'.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a51b0858-15b6-df33-38c5-a4794e0d4940",
+            "query": "<span style=\"display: block;\"><p>Which statement about DME squitter pulses is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Squitter pulses are transmitted by the ground station to makes sure the&nbsp;constant duty cycle is maintained.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Squitter pulses prevent the DME from overloading when&nbsp;the maximum amount of aircraft is reached.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Squitter pulses are pulses that are reflected by objects between ground and aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Squitter pulses are transmitted from the interrogator in the 'search' mode.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fe4703b8-0db9-5358-7fbe-8fe7f3c05340",
+            "query": "<span style=\"display: block;\"><p>The reason for using&nbsp;X- and Y-channels&nbsp;within DME is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>to distinct between an interrogation signal and a reply signal on the same frequency.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to have more channels avaliable than the numer of frequencies.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>to assign X-channels to&nbsp;civil users and&nbsp;Y-channels&nbsp;to military users.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to have&nbsp;X-channels in&nbsp;the VHF-band and&nbsp;Y-channels&nbsp;in the UHF-band.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3625fa2e-4b3f-75a4-c0b0-a3d019c5a7c1",
+            "query": "<span style=\"display: block;\"><p>About the airborne&nbsp;DME installation, it can be said that...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the DME receiver will go directly to the Search mode when it is switched on.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>No,&nbsp;the DME enters the search mode only when it receives DME (squitter) pulses.</p>"
+                },
+                {
+                    "text": "<span><p>in&nbsp;case of a \"loss of lock-on\",&nbsp;the Memory mode will be active for&nbsp;about 1 minute.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>in&nbsp;the Tracking mode, the pulse repetition frequency is much lower than in the Search mode.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the interrogator&nbsp;can track a maximum of 90 grounds stations (transponders).</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a232e3f8-55c5-0593-462c-abcda0a75308",
+            "query": "<span style=\"display: block;\"><p>Squitter pulses from a DME are the result of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>reception of radar pulses on the same frequency causing interference.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>responding to noise if there is no maximum use by aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>interrogation pulse pairs by the airborne interrogator.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>reflections from objects between aircraft and ground.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dce33e22-3a92-98b7-5b91-1713a8982a45",
+            "query": "<span style=\"display: block;\"><p>When the plan range between a DME&nbsp;interrogator at FL350,&nbsp;and a transponder at SL&nbsp;is&nbsp;200 NM, the calculated&nbsp;slant range&nbsp;is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>less than 200 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>exactly 200 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>more than 200 NM.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>not possible as this distance exceeds the designated operational coverage (DOC)&nbsp;range of the DME.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "431c1b37-067e-1192-1dd2-89a596150bbc",
+            "query": "<span style=\"display: block;\"><p>The slant range correction&nbsp;that must be applied to&nbsp;a small aircraft with a DME reading of 1 NM at an altitude of 6000 ft is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>0 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>0.4 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1.4 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 NM.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "0cba2690-bf64-63b0-1936-4a2c9b024375",
+            "query": "The DME installation&nbsp;of an aircraft flying at FL430 calculates&nbsp;a slant range of 15 NM from a beacon with an elevation of 167 ft. The plan range is&amp;he...",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p style=\"margin: 0;\">13.2 NM.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p style=\"margin: 0;\">16.5 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p style=\"margin: 0;\">15.0 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p style=\"margin: 0;\">14.6 NM.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "00684351-395a-7ef6-aa3e-6b50dd62bceb",
+            "query": "<span style=\"display: block;\"><p>When flying a&nbsp;DME arc at a plan range of 20 NM at an altitude of 24000 ft AGL, the following DME indications apply:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>DIST: 020</p>    <p>GS: 000</p>    <p>TTS: ---</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>DIST: 022;</p>    <p>GS: TAS +/- WIND;</p>    <p>TTS: 000.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>DIST: 022</p>    <p>GS: ---</p>    <p>TTS: 000</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>DIST = GS x TTS</p>    <p>GS =&nbsp;DIST / TTS</p>    <p>TTS =&nbsp;DIST / GS</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a451e82b-edda-1b9c-a99e-232b90cea13a",
+            "query": "<span style=\"display: block;\"><p>Which of the following DME statements&nbsp;is correct?</p><ol><li>Multipath protection&nbsp;is done in the aircraft as well as&nbsp;in the ground station.</li><li>Loss of reply signals may&nbsp;be caused&nbsp;as a result of the constant duty cycle.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Only&nbsp;statement 1 is true.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Only statement 2 is true.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Both statements&nbsp;are true.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Both statements are false.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "0127a96f-9fa2-b05f-848c-a1bf90a4715a",
+            "query": "<span style=\"display: block;\"><p>On an ILS approach chart,&nbsp;there is a table that&nbsp;shows the&nbsp;required&nbsp;'rate-of-descent' for a number of groundspeeds in order to fly a certain glidepath.</p><p>Under which conditions can the DME groundspeed read-out be used for this purpose?</p><ol><li>ILS/DME abeam the touch down zone;</li><li>VOR/DME within 5 NM in front of the runway;</li><li>TACAN within 5 NM from the airport;</li><li>VORTAC 5 NM behind the runway.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 and 4.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>2 and 4.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3 and 4.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7ca8c7db-15d8-c3c2-3876-2c366ea3dec3",
+            "query": "<span style=\"display: block;\"><p>An ILS&nbsp;sensitive area is where...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>ground traffic must be controlled during ILS approaches.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>ground traffic is&nbsp;not allowed when a CAT 1 ILS is in operation.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>traffic&nbsp;is not allowed when ILS calibration flights are in progress.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>air traffic is&nbsp;not allowed when a&nbsp;CAT 3 ILS is in operation.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a5a1fd33-40cd-3c3b-2935-bf15d4ab6ed1",
+            "query": "<span style=\"display: block;\"><p>A false glideslope of an ILS&nbsp;is the result of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>beam bends caused by large metal surfaces in the vicinity of the ILS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>reflections from the ground.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>interference with other nearby radio frequencies.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>atmospheric disturbances such as heavy precipitation&nbsp;and thunderstorms.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "56d44063-cc59-6149-d22a-8e41b685042b",
+            "query": "<span style=\"display: block;\"><p>The ILS critical area is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>situated in front of the Localizer and Glide path antenna; in this area no large craft are allowed during&nbsp;Cat-II or Cat-III approaches.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an area around the runway where no&nbsp;vehicles are allowed to drive, in order to keep a safe distance to landing aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an area around the LLZ as well as the GP antenna, in which the presence of aircraft or other craft causes disturbances of the ILS signal.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>for an approaching B747 aircraft much larger than for a Diamond Twinstar.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "05dd7b50-dbbc-438d-0dd8-137efdce4c40",
+            "query": "<span style=\"display: block;\"><p>The blue outer marker signal of the ILS&nbsp;is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>horizontally polarised and amplitude modulated.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>horizontally polarised without modulation.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vertically polarised and N0N/A1 modulated.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vertically polarised and A3 modulation.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4d9ebdd5-0167-172d-7774-e922926be02b",
+            "query": "<span style=\"display: block;\"><p>Which statement is correct regarding&nbsp;ILS-indications?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The calibration of the course deviation indicator (CDI) depends on the&nbsp;position of the&nbsp;course pointer (CP).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Just before a&nbsp;normal glide-path&nbsp;(GP)&nbsp;intercept,&nbsp;the GP-pointer will have an upward deflection.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>    <p>The GP&nbsp;is intercepted from below to prevent interception of false glide slopes.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>When passing the outer marker (OM), the white light&nbsp;will come on at a rate of 400 Hz.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>At an ILS/DME the station delay is adapted in order to show the remaining distance to&nbsp;the&nbsp;end of the runway.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "71be8e79-326c-11f4-bfa2-db0122fb5b15",
+            "query": "<span style=\"display: block;\"><p>ILS radio signals are characterised by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>horizontal polarisation of the localizer signal and vertical polarisation of the glide-slope signal.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a DDM of 100% on the (extended) centerline.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a&nbsp;localiser&nbsp;range of 25 NM and a glide-slope&nbsp;range of 10 NM.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a paired Morse identification on the carrier of the localiser and of the glide-slope beacon.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "eae3566d-b92f-5e12-6133-4315e4e84acb",
+            "query": "<span style=\"display: block;\"><p>When the ILS signal suffers from scalloping, there are...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>rapid changes or variations which can not be followed by the aircraft but are visible on the ILS indicator.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>slight changes or bends which can be followed by the aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>rapid changes or bends which can be followed by the aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>large changes or bends which can not be followed by the aircraft.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Scalloping are rapid variations that are visible on the ILS indicator but cannot be followed by the aircraft.</p>"
+                }
+            ]
+        },
+        {
+            "uuid": "2f38ba6a-64e0-e325-8ce3-7709fed538d4",
+            "query": "<span style=\"display: block;\"><p>The transmission of the ILS glidepath beacon is characterised by a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>VHF frequency modulated carrier wave with a 90 Hz AM and a&nbsp;150 Hz AM navigation signal.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>UHF frequency with a minimum&nbsp;range of&nbsp;10 NM.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>voice signal ranging from 300 to 3000 Hz.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>series of two 30 Hz signals of which the difference in depth of modulation is measured.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "5db1e827-f6ac-affa-30aa-74ee6933d757",
+            "query": "<span style=\"display: block;\"><p>The operational capacity of an ILS is limited by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the ILS&nbsp;facility performance: a CAT 3 ILS can handle more aircraft than a CAT 1/2 ILS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the required aircraft separation.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the number and position&nbsp;of monitoring stations.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the ILS/DME.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a9f0f23d-87c0-b284-ebfd-56e54a16874f",
+            "query": "<span style=\"display: block;\"><p>Which statement on ILS&nbsp;critical- and sensitive areas is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The critical area is always smaller than the sensitive area.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The critical area extends over an&nbsp;area with a range of 17 NM and a width of 70 degrees; the&nbsp;sensitive area extends over an area with a range&nbsp;25 NM and a&nbsp;width of 20 degrees.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>In the critical area no objects are allowed; in the sensitive area objects must not exceed certain dimensions.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>In the critical area objects may cause beam bends; in the sensitive area objects may cause scalloping.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2aa80765-b6eb-0db6-1812-7b25ba90bd98",
+            "query": "<span style=\"display: block;\"><p>When comparing with a standard&nbsp;ILS-DME,&nbsp;a standard MLS has...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>larger coverage angles and a&nbsp;larger range.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>more channels and is less sensitive to multipath.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>backbeam guidance and flare capability.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an elevation antenna with a collocated&nbsp;DME-N.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9ec34ab0-a167-b00c-4ec5-538524a540cb",
+            "query": "<span style=\"display: block;\"><p>The execution of segmented approaches with MLS is only possible if the ground installation is equipped with a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>BAz antenna.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>FL antenna.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>DME/P antenna.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Terminal Approach Radar (TAR) antenna.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4f6e9086-b5f9-53eb-077b-dac9c009034d",
+            "query": "<span style=\"display: block;\"><p>Which statement about MLS is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>MLS has the same&nbsp;number of channels as&nbsp;ILS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The facility performance categories are more stringent for MLS than for ILS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The azimuth coverage is in principle 40° on either side of the centerline.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>For 3-D positioning, distance information from a DME/N is used.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e6d99996-a2aa-552f-a2f6-6d617ed83951",
+            "query": "<span style=\"display: block;\"><p>The big advantage of MLS compared to ILS is that...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>MLS has a larger range in the&nbsp;direction of the extended centerline&nbsp;than&nbsp;ILS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>MLS has monitoring stations resulting in a better integrity than ILS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>MLS requires less antenna systems than ILS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>MLS is less sensitive for multipath signals than&nbsp;ILS.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "fe1b0997-c2ec-3b9e-cbd8-6279d3690b04",
+            "query": "<span style=\"display: block;\"><p>The working principle of&nbsp;MLS is measuring a time difference between...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>two pulses: one transmitted from the elevation antenna, the other from the azimuth antenna.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the transmission of a TO-scan and the reception of a FR-scan.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the reception of a TO-scan and a FR-scan.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the interrogation pulses from the DME and the reply pulses from the AZ and EL antenna.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e80e2271-b23b-e123-a04c-fc86d3378ac1",
+            "query": "<span style=\"display: block;\"><p>MLS measures distance&nbsp;by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>measuring the time taken for a&nbsp;primary radar pulse to travel from the MLS transmitter to the aircraft and back.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>time measurement between a ground-based interrogator and airborne transponder.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>measuring the time taken for a&nbsp;secondary radar pulse to travel from the MLS transmitter to the aircraft receiver.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>co-located DME.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "cc7376db-cc37-2c59-7be2-055b89b1040d",
+            "query": "<span style=\"display: block;\"><p>The MLS AZ antenna is situated...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>at the airport reference point (ARP).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>at the beginning of the runway.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>near the touch-down zone.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>at the end of the runway.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "e93d9015-a531-104c-a8f4-d7dec6feeead",
+            "query": "<span style=\"display: block;\"><p>During periods of&nbsp;super-refraction, radar pulses are...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>scattered, loosing too much energy for a reliable return.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>traveling further causing problems with the timing of the reply pulses.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>attracted by the earth's surface thereby reducing their maximum range.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>absorbed by the presence of moisture in the lower part of the atmosphere.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "897d952e-3c9a-6b50-a59f-8911bc088354",
+            "query": "<span style=\"display: block;\"><p>The azimuth resolution of&nbsp;radar is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>independent of the frequency of the carrier wave.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>dependent of the beam width.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>independent of the antenna&nbsp;diameter.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>dependent of the antenna rpm.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2b34fcde-35e2-430f-ede6-090e54ebc832",
+            "query": "<span style=\"display: block;\"><p>The minimum radar&nbsp;range is determined by the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>pulse spacing.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pulse amplitude.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pulse&nbsp;repetition frequency.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pulse width (duration or length).</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "4298df0f-b338-bcea-a04d-040bfb7f133e",
+            "query": "<span style=\"display: block;\"><p>A pulse radar has the following data:</p><ul><li>frequency 10 GHz;</li><li>pulse length 1 micro-second;</li><li>pulse interval 1235 micro-second;</li><li>antenna diameter 0.7 m.</li></ul><p>For this radar it can be stated that the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>minimum range is 300 meter.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>beam width is 3°.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>maximum theoretical range is 50 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>azimuth&nbsp;resolution is 300 meter.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4ddcbb01-841c-da7c-f3ee-c3d1140823af",
+            "query": "<span style=\"display: block;\"><p>Given:</p><p>A&nbsp;radar has a frequency of 10 GHz and a pulse duration of 2.5 µs.</p><p>&nbsp;</p><p>The number&nbsp;of wave periods per pulse is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>25000.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>15000.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2500.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1500.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "04173714-f902-2cad-16fe-7e64cbf1a492",
+            "query": "<span style=\"display: block;\"><p>The maximum theoretical range of a&nbsp;radar&nbsp;depends&nbsp;on...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the pulse repetition frequency.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the pulse duration.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the pulse amplitude.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the pulse length.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9dc6aa04-947d-0002-2102-f485c4444d42",
+            "query": "<span style=\"display: block;\"><p>The maximum theoretical range of a radar is determined by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the distance resolution.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the pulse duration.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the time between two subsequent transmission pulses.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the dimensions of the antenna.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b430303e-75c3-15aa-2240-31be27bdfac9",
+            "query": "<span style=\"display: block;\"><p>The azimuth resolution of&nbsp;radar is improved when...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the frequency decreases.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>"
+                },
+                {
+                    "text": "<span><p>the wavelength&nbsp;increases.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the antenna rotates faster.</p>    <p>dependent of the antenna diameter and independent of the frequency.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the antenna has a larger diameter.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "3d199916-226f-db9f-b04f-604fa7420d92",
+            "query": "<span style=\"display: block;\"><p>A&nbsp;long-range, ground surveillance-radar has a range of&nbsp;approximately...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>50 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>250 NM.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>250 NM.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>100 NM.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>500 NM.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9a9534ea-6c41-e598-d945-036763b6103b",
+            "query": "<span style=\"display: block;\"><p>Which&nbsp;statement regarding&nbsp;ground radar in aviation is correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Ground radar can be a primary radar&nbsp;or a secondary radar.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Ground radar can be a pulse radar or a continuous wave radar.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Ground radar can be an interrogator or a transponder.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Ground radar can have a&nbsp;stationary antenna&nbsp;or a&nbsp;rotating antenna.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "08956263-d96c-b7a6-c140-66338b61b741",
+            "query": "<span style=\"display: block;\"><p>Regarding radar,&nbsp;a RSR is used&nbsp;by ATC for...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>en-route surveillance in the&nbsp;upper airspace.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>guidance during precision approaches.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>radar vectoring in local TMA's.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ground movement control on airports.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3efdc2d8-3392-92ae-4dd5-2a34012de6ff",
+            "query": "<span style=\"display: block;\"><p>Complete the following statement:</p><p>Airport Surface Movement Radar&nbsp;operates on frequencies in the [1]&nbsp;band with an rpm of [2]&nbsp;and it is [3]&nbsp;possible to conclude the size of the aircraft from the blip on the radar screen.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><ol>   <li>HF/VHF;</li>   <li>30-60;</li>   <li>never.</li>  </ol>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol>   <li>SHF/EHF;</li>   <li>60-100;</li>   <li>sometimes.</li>  </ol>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><ol>   <li>VHF/UHF;</li>   <li>100;</li>   <li>always.</li>  </ol>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>"
+                },
+                {
+                    "text": "<span><ol>   <li>UHF/SHF;</li>   <li>1;</li>   <li>never.</li>  </ol>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7a6a37f7-deac-67ad-2a68-a4a6df6a7762",
+            "query": "<span style=\"display: block;\"><p>Modern ATC&nbsp;systems use the following display unit:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>electron gun&nbsp;in a vacuum glass tube&nbsp;with a rotating timebase and a green phosphoric screen.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>analogue radio bearing indicator.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>computer generated video display.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>VDF display.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f9e06339-1fb5-c8fe-06ba-376a1519e0cc",
+            "query": "<span style=\"display: block;\"><p>Examples of ground radar are:</p><ol><li>surface movement radar;</li><li>terminal approach radar;</li><li>route surveillanace radar;</li><li>precision approach radar;</li><li>airborne weather radar.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>only 1.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>only 2, 3 and 4.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>only 1, 2, 3 and 4.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1, 2, 3, 4 and 5.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8970f84d-f625-36a8-c298-e7d1a37f00dc",
+            "query": "<span style=\"display: block;\"><p>A long-range, ground radar has a relative...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>low&nbsp;rpm;</p>    <p>large&nbsp;antenna;</p>    <p>low PRR;</p>    <p>large PW.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>low&nbsp;rpm;</p>    <p>small antenna;</p>    <p>high PRR;</p>    <p>large PW.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>low&nbsp;rpm;</p>    <p>small&nbsp;antenna;</p>    <p>high PRR;</p>    <p>low&nbsp;PW.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>high&nbsp;rpm;</p>    <p>small&nbsp;antenna;</p>    <p>high PRR;</p>    <p>small&nbsp;PW.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9eb70d69-218f-308a-0bed-e527ab6c3792",
+            "query": "<span style=\"display: block;\"><p>The airborne weather radar can <strong>NOT&nbsp;</strong>detect...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>light, dry snow.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>moderate rain.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>supercooled droplets.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>wet hail.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "644849d3-1d34-1551-0a8d-c77b4df77e2c",
+            "query": "<span style=\"display: block;\"><p>The&nbsp;frequency of weather radar is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>transmit and receive at 9375 MHz.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>transmit at 1030 MHz&nbsp;and receive at 1090 MHz.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Transmit at 960 MHz and receive at 1215&nbsp;MHz.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>transmit and receive at 5 GHz.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b23d0bf5-2087-9e9d-a359-61abf8e3f4bb",
+            "query": "<span style=\"display: block;\"><p>An&nbsp;airborne&nbsp;weather radar&nbsp;(AWR)&nbsp;uses interrogation...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>pulses transmitted at a random frequency to detect possible turbulent clouds.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pulse pairs in a random order to allow lock-on on its own replies.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pulses of a&nbsp;constant frequency, amplitude, width&nbsp;and rate.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>pulse with a length of 3.2 cm for best reflective&nbsp;properties.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fc8054ed-4f53-927a-3720-2a0cc3d21968",
+            "query": "<span style=\"display: block;\"><p>The main task of the airborne weather radar is to detect...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>potential turbulent clouds and to aid navigation.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>clouds that cause&nbsp;reduced visibility.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ice, snow and hail with regard to&nbsp;ice protection.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>wind direction and velocity.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ae84ed34-ba40-9c78-db88-9808da4d2581",
+            "query": "<span style=\"display: block;\"><p>An airborne&nbsp;weather radar shows&nbsp;light rain in a [...] colour.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>white</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>cyan</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>green</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>yellow</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3371025d-ee96-a394-3ab5-36e8b4bd8688",
+            "query": "<span style=\"display: block;\"><p>A modern airborne weather radar makes use of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the Internet for an actual image of the weather en-route.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an Inertial Reference System (IRS) for antenna stabilisation.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a terrain database to position the weather image over&nbsp;a&nbsp;map of the underlying&nbsp;terrain.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Doppler techniques to detect&nbsp;Clear Air Turbulence (CAT).</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "050ccf80-f50f-6381-186a-a4e8782e587d",
+            "query": "<span style=\"display: block;\"><p>A&nbsp;modern&nbsp;weather radar with colour display shows areas with heavy&nbsp;precipitation in a [...] colour.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>yellow</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>amber</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>red</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>&nbsp;Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>magenta</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "680f61ba-2c08-00de-a7df-87c4b359a793",
+            "query": "<span style=\"display: block;\"><p>Weather radar information can be improved&nbsp;by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>decreasing the wave length.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>applying sensitivity timing&nbsp;control (STC).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>deselecting&nbsp;ground clutter suppression (GCS).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>decreasing&nbsp;the antenna size.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a69ff6a5-ebf0-66da-bea9-674fcc11e793",
+            "query": "<span style=\"display: block;\"><p>A frequency of ~10 GHz is considered to be the optimum for use in Airborne Weather&nbsp;Radars&nbsp;because...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>greater detail can be obtained from smaller water droplets at a larger&nbsp;range.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>static interference is minimised.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>less power output is required in the mapping mode.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>large water droplets will give good echo's and the antenna can be kept relatively small.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "75c8d95b-0b39-39d2-45f5-80904b93b05d",
+            "query": "<span style=\"display: block;\"><p>SSR makes use of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>airborne antennas to interrogate the transponders of other aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>metallic parts in the aircraft construction as a back-up for the PSR.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a&nbsp;ground based transmit/receive antenna and an airborne receive/transmit antenna.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>ground based directional sensitive VDF antennas.&nbsp;</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "034a1617-7b4f-51c1-68f2-7195bade634b",
+            "query": "<span style=\"display: block;\"><p>Which statement about SSR is correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>SSR is a primary radar.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SSR suffers from nearby rainshowers.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SSR uses a stationary, ground-based antenna.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SSR allows for a 3D position of the&nbsp;aircraft.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "1710e733-f5b3-886b-faf1-796745d484db",
+            "query": "<span style=\"display: block;\"><p>Mode-S stands for...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>secondary radar.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>selective addressing.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>surveillance radar.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>standby mode.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "08f3de32-3b84-05a6-fd7e-78b79cbd2177",
+            "query": "<span style=\"display: block;\"><p>The function of the side lobe suppressor of an SSR is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>to&nbsp;suppress&nbsp;replies to&nbsp;noise (squitter pulses).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to have less power in the side lobes and more power in the main beam.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to prevent fruiting and&nbsp;garbling.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to avoid replies to interrogations of which the control pulse is stronger than both other pulses.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c224cef5-4512-d085-c926-8b53510c3247",
+            "query": "<span style=\"display: block;\"><p>Which of these&nbsp;statements on&nbsp;Mode-S is correct?</p><ol><li>Mode-S comes as elementary surveillance (ELS)&nbsp;or as enhanced surveillance (EHS).</li><li>Mode-S Extended Squitter (ES) automatically transmits the position every second.</li><li>Mode-S allows for selective addressing.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>3 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2 only.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>1, 2 and 3.</p>"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "cf3dba98-7391-ea9c-7f10-474628a557b7",
+            "query": "<span style=\"display: block;\"><p>Which statement is correct regarding&nbsp;SSR Mode-S&nbsp;(SSR/S)?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>SSR/S is a special SSR mode with 2^12&nbsp;= 4096 possible codes.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SSR/S transmits the 3D position with a higher accuracy than&nbsp;SSR/AC.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SSR/S has a datalink capability&nbsp;that&nbsp;is also used by&nbsp;TCAS-II.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Not position, but altitude because of the 25 ft increments (SSR/S) instead of 50 ft (SSR/AC).</p>    <p>SSR/AC did not supply position.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>SSR/S operates in the SHF band.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "44a4be5b-3e31-28fb-0f25-626fe68d4955",
+            "query": "<span style=\"display: block;\"><p>A secondary radar requires less transmission power than a primary radar power because...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the range is&nbsp;lower.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>&nbsp;the interrogation signal only has to travel outbound.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the antenna is not rotating.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the pulse repetition frequency, pulse width and pulse amplitude are&nbsp;lower.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "faf2dd8e-c612-a072-77a5-7bf83763604e",
+            "query": "<span style=\"display: block;\"><p>GPS uses two transmission frequencies because...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>redundancy: in case of failure of&nbsp;one frequency, you can use the other one.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>with two frequencies, the tropospheric delay can be determined.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>it enables P-code receivers to determine the ionospheric delay.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>from the difference in arrival time of the signal, the receiver clock error is calculated.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "39bedbef-0df3-ce6c-402e-22933f61655e",
+            "query": "<span style=\"display: block;\"><p>Which of the following&nbsp;statements&nbsp;on GNSS&nbsp;is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>When flying from the West to the&nbsp;East, the GNSS has to switch over from GPS, via Galileo and GLONASS to BEIDOU.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>NAVSTAR&nbsp;is the Russian version of the US GPS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>GLONASS and NAVSTAR are&nbsp;interoperable.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Global coverage is achieved by employing a SBAS.&nbsp;</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1e8aa699-150c-3da9-5621-6c915d4d7a7d",
+            "query": "<span style=\"display: block;\"><p>An eight-channel GPS receiver selects satellites based on&nbsp;the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>strongest signal.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>highest elevation angle.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>lowest satellite clock error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>best geometry.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "022748f5-8197-d9de-6837-315ef21bd13d",
+            "query": "<span style=\"display: block;\"><p>The pseudo-range to a GPS&nbsp;satellite&nbsp;can be solved by adding a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>third SV to the navigation solution.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>fourth SV to the navigation solution.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>fifth SV to the navigation solution.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>sixth SV to the navigation solution.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "113b417c-6c0c-fb4a-2c21-d6e86dd388bb",
+            "query": "<span style=\"display: block;\"><p>The GPS ‘pseudo range’ is so-called for, because the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>satellite clock error&nbsp;is unknown.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>runtime is unknown.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>receiver clock error is unknown.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>ionospheric propagation delay is unknown.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "501d9bf6-d347-f84f-926e-6169ebe01787",
+            "query": "<span style=\"display: block;\"><p>Which statement concerning GPS is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>For&nbsp;a three-dimensional position, the GPS-receiver needs at least three satellites to obtain the receiver clock error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Three satellites give three position spheres&nbsp;that&nbsp;intersect in three points.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The C/A code is transmitted at two frequencies; the P code is transmitted&nbsp;at one frequency.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Each satellite transmits at least at the following two frequencies: L1 on 1227&nbsp;MHz and L2 on 1575 MHz.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>    <p>L1 at 1227 MHz C/A code + P code;</p>    <p>L2 at 1575 MHz P code.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "a3f5e809-f791-c297-aed1-cf82c45fa11f",
+            "query": "<span style=\"display: block;\"><p><span style=\"font-family:arial;\">The American GPS-NAVSTAR lacks (is missing)...</span></p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;\"><span style=\"font-family:helvetica;\">accuracy, measuring range&nbsp;and alerting.</span></p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;\"><span style=\"font-family:helvetica;\">accuracy, availability and integrity.</span></p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;\"><span style=\"font-family:helvetica;\">sensitivity, availability and monitoring.</span></p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard;\"><span style=\"font-family:helvetica;\">tolerance, functionality&nbsp;and integrity.</span></p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ef0c6c4f-dfc6-e6b9-db24-ade638fc09a0",
+            "query": "<span style=\"display: block;\"><p>Where GPS uses WGS-84, does GLONASS use...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>PZ-90.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>CGCS2000.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>This is the Chinese BeiDou reference.</p>    <p>GLONASS uses PZ-90.</p>"
+                },
+                {
+                    "text": "<span><p>WGS-84.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>AVGAS100.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9ebb1911-1469-2597-1128-7720d20e35b9",
+            "query": "<span style=\"display: block;\"><p>The advantage of a&nbsp;GNSS receiver over a GPS receiver is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a GNSS receiver uses two frequencies to determine the IPD (ionospheric propagation delay).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a GNSS receiver can be used worldwide.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>"
+                },
+                {
+                    "text": "<span><p>a GNSS receiver has a more effective&nbsp;RAIM (Receiver Autonomous Integrity Monitoring) function.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a&nbsp;GNSS receiver does not need augmentation.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "892156ea-9f3e-a54b-5294-9d0a85db1a21",
+            "query": "<span style=\"display: block;\"><p>GPS-NAVSTAR is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>an example of an SBAS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the American WAAS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a GBAS allowing for precision approaches.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the US GNSS.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "fc47bd69-cf0e-83a8-df62-15f6a9c39866",
+            "query": "<span style=\"display: block;\"><p>Which statement regarding GPS is correct ?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The duration of a complete cycle of the P-code&nbsp;is&nbsp;1 microsecond.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>In the SPS (Standard Position Service), use is made of only one frequency.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The PPS allows for the reception of two frequencies to estimate the tropospheric delay.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The C/A-code is encrypted in a Y-code.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d0a7be5a-536a-dff5-c337-7e82b2eef1c8",
+            "query": "<span style=\"display: block;\"><p>For the civil application&nbsp;of&nbsp;GPS&nbsp;that uses&nbsp;the CA code only,&nbsp;the following information can be retrieved...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>position: 2D position,</p>    <p>velocity: groundspeed,</p>    <p>path: no&nbsp;path,</p>    <p>time: UTC.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>position:&nbsp;coarse 3D position,</p>    <p>velocity: groundspeed,</p>    <p>path: heading,</p>    <p>time: local time.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>position: accurate 3D position,</p>    <p>velocity: groundspeed,</p>    <p>path: track,</p>    <p>time: UTC.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>position: accurate 3D position,</p>    <p>velocity: groundspeed and&nbsp;true airspeed,</p>    <p>path: track and heading,</p>    <p>time: UTC and&nbsp;local time.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "913e2760-9b88-d80a-6e9c-68031c9cf1a5",
+            "query": "<span style=\"display: block;\"><p>In GPS navigation, the&nbsp;random error in the pseudo-range measurement that depends on the elevation mask angle is called...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the satellite ephemeris error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the satellite clock error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the tropospheric delay error.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the user clock bias (receiver clock error).</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bd15fad0-e45c-8858-4e9e-131f952ab3e5",
+            "query": "<span style=\"display: block;\"><p>The availability of the US GPS-NAVSTAR satellite navigation system&nbsp;is augmented through the use of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a satellite based&nbsp;augmentation system such as WAAS or&nbsp;EGNOS.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>RAIM techniques.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a connection with on-board inertial navigation systems.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Galileo, GLONASS or BEIDOU satellites.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ba76a6ec-4e33-cf6c-dad6-80d5b281f5ca",
+            "query": "<span style=\"display: block;\"><p>Differential GPS (DGPS) provides corrections for the following error&nbsp;behavior...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>receiver clock error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>solar wind and gravitational effects.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ionospheric propagation delay (IPD).</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>multipath.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "904f9eab-a593-303b-9ddd-c698dcb1a0c1",
+            "query": "<span style=\"display: block;\"><p>RAIM (Receiver Autonomous Integrity Monitoring) is a technique inside&nbsp;the GPS-receiver&nbsp;to determine...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>actual navigation performance (ANP).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>position dilution of precision (PDOP).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>receiver clock error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>corrupt satellites.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "89980676-f736-a703-5071-963e9397d7ab",
+            "query": "<span style=\"display: block;\"><p>The geostationary communication satellites of Inmarsat augment GPS by, amongst others, transmitting&nbsp;'GPS ranging signals' which will...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>improve the position dilution of precision (PDOP) at latitudes &lt; 60°.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>    <p>As Inmarsat is geostationary above the equator.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>improve&nbsp;the vertical dilution of precision (VDOP) at latitudes &gt; 60°.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>decrease the user equivalent range error (UERE).&nbsp;</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>increase the drms (distance root mean square).</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "35359a6d-a1a3-1df1-eeb9-78afa975c2cc",
+            "query": "<span style=\"display: block;\"><p>GPS augmentation must improve...</p><ol><li>accuracy;</li><li>integrity;</li><li>availability.</li></ol><p>The most complete answer is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>3 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "735a64e9-0fa5-1053-e5ad-4480b30caf73",
+            "query": "<span style=\"display: block;\"><p>In a&nbsp;GBAS the VHF Data Block (VDB) supplies the aircraft with approach data plus...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>corrections and integrity information for GNSS satellites in view.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>meteorological information such as visibility, wind, pressure and temperature.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>operational information about possible beam bends, scalloping and noise.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an update about the current weather prevailing at the airport including possible windshear.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ac7b7e35-2266-dbba-a471-3798efdbbf34",
+            "query": "<span style=\"display: block;\"><p>Which statement is true regarding&nbsp;differential corrections?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Differential GPS (DGPS) uses ground based beacons (VOR, DME, ILS)&nbsp;to improve the acuracy durimng the final approach segment.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Every standard (basic) GPS-receiver is suitable to receive DGPS-corrections by connecting a second antenna.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Within 100 NM WAAS is more accurate than LAAS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A local&nbsp;area augmentation system requires less reference stations than a wide&nbsp;area augmentation system although&nbsp;the accuracy requirement may be higher.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "7bf7024d-474c-f305-6171-548e54b79b74",
+            "query": "<span style=\"display: block;\"><p>One of the properties of a LAAS (Local Area Augmentation System) such as GBAS, is that in the appropriate area for approach and landing...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>corrections for&nbsp;ionospheric delay and&nbsp;tropospheric delay are transmitted</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>GPS may use&nbsp;GLONASS satellites to enhance the accuracy of the position fix.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the GPS altitude is augmented by a barometric altimeter.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>integrity monitoring as well as differential corrections are performed.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "122f89af-a9cd-349b-bf8f-0fb53b7d4ebb",
+            "query": "<span style=\"display: block;\"><p>In a WAAS (Wide Area Augmentation System)...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>differential corrections are transmitted via GPS-satellites.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>differential corrections are transmitted by other&nbsp;satellites using&nbsp;an HF-datalink.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>position-dependent corrections on the ranges are transmitted.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>corrections on the SV&nbsp;position are transmitted.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "007d814f-4ae3-9b26-28cb-9c864874e5ae",
+            "query": "<span style=\"display: block;\"><p>Receiver autonomous integrity monitoring (RAIM) is applied in GPS...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>near aerodromes in ground stations to improve the geometry.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to reduce the PDOP in order to improve the position accuracy.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>receivers in order to warn the user when a satellite does not transmit proper signals.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>and in Inmarsat-satellites to enable them to function as geostationary GPS-navigation transponders</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f4d1bb69-7871-3aeb-0177-7ddada24c4d1",
+            "query": "<span style=\"display: block;\"><p>To&nbsp;support GPS, the geostationary communicstion satellites of&nbsp;Inmarsat&nbsp;will transmit...</p><ol><li>ranging signals;</li><li>differential corrections;</li><li>integrity messages.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>only 1.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>only 1 and 2.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>only 2 and 3.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "e3b2d848-940a-3d7c-d6a1-bbf55b0a0e4f",
+            "query": "<span style=\"display: block;\"><p>The US&nbsp;WAAS (Wide Area Augmentation System) makes use of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Inmarsat to improve&nbsp;integrity, accuracy and availability.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>INS to&nbsp;improve&nbsp;the integrity.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>RAIM to improve the accuracy.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>VOR/DME to improve the availability.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d2f24128-6a8c-f205-6c26-e880a867801b",
+            "query": "<span style=\"display: block;\"><p style=\"color:rgb(51, 51, 51);font-size:16px;font-style:normal;font-variant:normal;font-weight:400;letter-spacing:normal;margin-bottom:0.5em;margin-top:0px;text-align:left;text-decoration:none;text-transform:none;white-space:normal;word-spacing:0px;\"><font style=\"background-color:rgb(255, 255, 255);\">GBAS signals are sent to the...</font></p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>geostationary communication sattellites.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>master control station.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>users directly.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>GPS satellites.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2db8dbd2-e757-d02a-5c24-b29f3c7f3403",
+            "query": "<span style=\"display: block;\"><p>An Area navigation (RNAV) syst<em>em</em> can be best&nbsp;described as...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>inertial&nbsp;navigation over areas without radio beacons.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>point-to-point radio navigation.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>navigation with radio beacons and/or self-contained systems without the need&nbsp;to fly over radio beacons.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>navigation using fly-by waypoints instead of fly-over waypoints.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "33ff051b-490a-61a7-cac9-f08524425b10",
+            "query": "<span style=\"display: block;\"><p>What can you tell about PBN being sensor-specific or not?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>PBN is sensor-specific because it uses ground- or space based radio-aids to obtain its position.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>PBN is sensor-specific because it can only use one radionavigation system at a time during an approach.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>PBN is <strong>NOT</strong> sensor-specific because it does not have to overfly radio beacons.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>PBN is <strong>NOT</strong> sensor-specific&nbsp;because it may use several, different navigation systems to obtain its position.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "3f5d1836-c648-1802-c134-5e8a7efa36d1",
+            "query": "<span style=\"display: block;\"><p>In PBN, linear lateral performance requirements are expressed in...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>miles.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>degrees.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>seconds.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>wing span.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2440f9f5-687b-4f03-08ae-ee7a8262425d",
+            "query": "<span style=\"display: block;\"><p>The&nbsp;navigation aid infrastructure of PBN consists of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the following airspaces: oceanic/remote, continental and terminal.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>departures, ATS routes, arrivals and approaches.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the RNAV system including&nbsp;on-board performance monitoring and alerting.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ground-based and space-based radio beacons.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "eae81f6d-1f68-4eb7-4ca8-340e20db1043",
+            "query": "<span style=\"display: block;\"><p>Amongst others, which of the following&nbsp;RNP specifications are in use?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>RNP 1</p>    <p>RNP 2</p>    <p>RNP 3</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>RNP 1</p>    <p>RNP 4</p>    <p>RNP 5</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>RNP 0.1</p>    <p>RNP 0.2</p>    <p>RNP 0.3</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>RNP 0.1</p>    <p>RNP 1</p>    <p>RNP 10</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>No RNP 0.1 and no RNP 10.</p>"
+                }
+            ]
+        },
+        {
+            "uuid": "0ba306cf-6522-bf43-e39b-51ec829e8d51",
+            "query": "<span style=\"display: block;\"><p>Which of the following <em>statements</em> on RNAV and RNP is&nbsp;correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>RNAV is for en-route and terminal airspace;</p>    <p>RNP is for approaches.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>RNAV is for en-route and terminal&nbsp;airspace;</p>    <p>RNP is for oceanic/remote-, departure/arrival- and approach airspace.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>RNAV is for en-route airspace;</p>    <p>RNP is for terminal airspace.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>"
+                },
+                {
+                    "text": "<span><p>RNAV is for oceanic/remote&nbsp;airspace;</p>    <p>RNP is for continental&nbsp;airspace.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cad947fd-76a5-e82b-2a48-eef83d271659",
+            "query": "<span style=\"display: block;\"><p>RNAV 5 means the aircraft&nbsp;is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>within 5 degrees from the track to the active&nbsp;waypoint.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>100 - 5 = 95% of the flight time on the desired track.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>within 5 miles from the calculated position.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>within 5 miles&nbsp;from the track to the active&nbsp;waypoint.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "061a89ed-176d-d2d3-1ebb-3266d2d68df5",
+            "query": "<span style=\"display: block;\"><p>How is the time to the active waypoint calculated?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>DIST / GS</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>DIST x GS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ETO - actual time.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ETA - actual time.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "299eed45-8f1f-4a22-0440-e9036d2d80ff",
+            "query": "<span style=\"display: block;\"><p>A turn with a fixed radius during en-route performance based navigation&nbsp;is a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>FRT leg.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>TMA leg.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>RF leg.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Procedure turn.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a841f7b6-0ada-7953-35ef-494a23b5b409",
+            "query": "<span style=\"display: block;\"><p>JW193</p><p>PBN path terminator 'DF' means...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Direction to fix.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>direct to fix.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>direction finding.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>descend to fix.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c3fc4bfa-c92f-cd4b-a847-3ae539025056",
+            "query": "<span style=\"display: block;\"><p>An&nbsp;RF-leg&nbsp;is a turn with a constant radius...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>around a fix.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>&nbsp;to connect the two parallel tracks of a holding.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to fly a DME arc procedure.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>between two fixes.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2fbaadec-d47c-589d-e244-82a96f96341f",
+            "query": "<span style=\"display: block;\"><p>When flying an offset flight path, the flight technical error (FTE) shows...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>0 (zero).</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>'X' NM.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>When flying a (programmed) offset flight path the FTE should read zero.</p>    <p>When deviating from the (offset) flight path the FTE shows a number in NM.</p>"
+                },
+                {
+                    "text": "<span><p>'X' degrees.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>'X' feet.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b08df378-9119-a505-8173-aa8dd9a4b275",
+            "query": "<span style=\"display: block;\"><p>TD193</p><p>What comprises the Total System Error (TSE) in PBN operations?</p><div class=\"page\" style=\"color:rgb(0, 0, 0);\" title=\"Page 2\">&nbsp;</div></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>TSE = <img align=\"middle\" alt=\"square root of blank end root\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«msqrt/»«/math»\" src=\"https://applications.itslearning.com/wiris/integration/showimage.aspx?formula=bda4878c1ee1ca1f91fe6cbdf817121b\"> PDE<sup>2</sup> + FTE<sup>2</sup> + NSE<sup>2</sup>.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>TSE = PDE + FTE + NSE.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>TSE = ground station&nbsp;error + space vehicle&nbsp;error + airborne equipment&nbsp;error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>TSE = transmitter&nbsp;error + propagation error + receiver error + reading error.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "65a15d9d-5232-baf6-35a6-c7f36395e85b",
+            "query": "<span style=\"display: block;\"><p>BB193</p><p>Which of the following PBN errors is mostly affected by the flying skills of the human pilot?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Navigation System Error (NSE)</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Path Definition Error (PDE)</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Flight Technical Error (FTE)</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Total System Error (TSE).</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b26ed7b9-6251-50f1-ea43-d6c311555976",
+            "query": "<span style=\"display: block;\"><p>How can&nbsp;the flight-crew monitor the navigation system error (NSE)?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Make sure the sum of the&nbsp;ANP and&nbsp;the&nbsp;FTE does not exceed the RNP.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Compare the ANP versus the RNP</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Watch the flight director (FD) bars on the PFD being centered.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Monitor the LOC and GP pointers&nbsp;on the EFIS ND.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9eed34f0-d6dd-2197-3d43-73b70bbc19da",
+            "query": "<span style=\"display: block;\"><p>In case of loss of&nbsp;PBN capability...&nbsp;</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>abnormal and contingency procedure are to be used.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the aircraft should land at the nearest suitable airport under guidance of an other aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>emergency communication procedures must be applied.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the flight may be continued normally, but after the flight a&nbsp;safety report must be filed.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "87c790f1-c80b-0a6b-2162-71fa40e1261b",
+            "query": "<span style=\"display: block;\"><p>In PBN, the navigation system error (NSE) is shown as...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>ANP.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>RNP.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>PDE.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>FTE.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "589681d4-355c-9ce0-0c48-52eb646f5e43",
+            "query": "<span style=\"display: block;\"><p>When the FTE is zero (0)...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the ANP is zero.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the aircraft is on its intended track and the ANP is zero.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the aircraft is on the intended track but the ANP is not necessarily zero.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the ANP equals the RNP, and the FD roll bar is&nbsp;centered.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "de9595e0-1cf3-d3f0-fe38-427b4fd8a6a9",
+            "query": "<span style=\"display: block;\"><p>In PBN, the navigation system error (NSE)&nbsp;is a combination of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the path definition error (PDE) and the computing error of the FMS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the indication error of the EFIS and the reading/interpretation error of the pilot.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the sensor error (GNSS and IRS)&nbsp;and the&nbsp;computing error of the FMS.&nbsp;</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the path definition error (PDE) and the flight technical error (FTE).</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>"
+                }
+            ]
+        },
+        {
+            "uuid": "4508a78f-74db-f21e-450b-3789de034c2a",
+            "query": "<span style=\"display: block;\"><p>In PBN, the path definition error (PDE) is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a steering error of the&nbsp;automatic pilot.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a programing error of the flight crew.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>&nbsp;a resolution&nbsp;error of the data-packer.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>&nbsp;a resolution&nbsp;error of the data-packer.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a calculation&nbsp;error of the flight management system (FMS).</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "37c64c71-bcb4-b4b0-3f42-a214749bbd4c",
+            "query": "<span style=\"display: block;\"><p>An RNP Approach to LNAV minima is a non-precision approach&nbsp;that uses...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>GNSS for lateral guidance and barometric altititude for vertical reference.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>GNSS for lateral and vertical reference.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>LNAV for vertical guidance and VNAV for vertical reference.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Localiser for vertical guidance and glideslope for vertical reference.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8da84f41-ed9a-7c7b-17d7-4abd498d90db",
+            "query": "<span style=\"display: block;\"><p>During an RNP approach, the barometric altimeter can only be used when the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>outside air temperature is within a promulgated range.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>elevation is within a promulgated range.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ambient pressure is within a promulgated range.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>air density is within a promulgated range.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2c0dd504-0ef7-6648-0afe-da90356b0cd3",
+            "query": "<span style=\"display: block;\"><p>BB193</p><p>An RNP APCH to LNAV/VNAV minima has lateral guidance based on [1] and vertical guidance based on [2].</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1: GNSS</p>    <p>2: SBAS or BaroVNAV</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1: Locator NDB</p>    <p>2: Radio&nbsp;altimeter</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1: Localiser</p>    <p>2: Marker Beacons</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1: GNSS</p>    <p>2: GBAS</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "40d4aa33-e81f-7f01-a6fe-3e66b9e9cd3e",
+            "query": "<span style=\"display: block;\"><p>An approach procedure with vertical guidance (APV) is a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Non-Precision Approach (NPA) with a Minimum Descent Altitude (MDA).</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Precision Approach (PA) with a Decision Altitude (DA).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Non-Precision Approach (NPA) with a Minimum Descent Height&nbsp;(MDH).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Precision Approach (PA) with a Decision Height&nbsp;(DH).</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "839589cf-4365-c19a-2420-a1c6359a6779",
+            "query": "<span style=\"display: block;\"><p>In order to fly&nbsp;an RNP APCH, select&nbsp;the approach template from a&nbsp;valid, and up-to-date...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>internal navigation data storage device such as a FMS, which&nbsp;is part of the certified aircraft configuration.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>external navigation data storage device such as a tablet, which is not part of the certified&nbsp;aircraft configuration.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>external navigation data storage device such as a hard-copy booklet holding&nbsp;printed versions&nbsp;of all type of approaches.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>All options are acceptable.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "249e4075-1adf-a1a1-3118-b9bdc49027b1",
+            "query": "<span style=\"display: block;\"><p>The RNAV-10 specification requires at least two independent long-range navigation systems.</p><p>What is considered a LRNS?</p><ol><li>Oceanic NDB;</li><li>airway VOR;</li><li>DME-N;</li><li>Airborne Weather Radar</li><li>GNSS;</li><li>INS.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 and 2.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2 and 3.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>4 and 5.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>5 and 6.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "4fd20722-78f5-6beb-3ad6-37b0f3a95d9e",
+            "query": "<span style=\"display: block;\"><p>Which PBN navigation aid has a standard time limitation?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The two inertial navigation systems INS and IRS.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The two GNSSs.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The colocated VOR/DME.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The FMS.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f11cd981-7eb2-debf-31a7-c87a00edc711",
+            "query": "<span style=\"display: block;\"><p>TH193</p><p>The prefix 'A' in A-RNP stands for...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>automatic.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>actual.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>autonomous.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>advanced.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>Correct.</p>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "c656a61a-12e6-b771-3776-81a2bcb36898",
+            "query": "<span style=\"display: block;\"><p>Bonusvraag:</p><p>Hoeveel COM-antennes heeft een F35?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>0</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>3</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>10</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>0</p>"
+                },
+                {
+                    "text": "<span><p>35</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        }
+    ]
+}

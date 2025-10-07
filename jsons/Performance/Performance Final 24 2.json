@@ -1,0 +1,846 @@
+{
+    "uuid": "2369eab2-0322-46e2-8cd0-b9abe15f8e0d",
+    "title": "Performance Final 24  2 -",
+    "questions": [
+        {
+            "uuid": "16222357-7239-24bb-4d4b-a20ffe1a4188",
+            "query": "<span style=\"display: block;\">The tangent from the origin to the thrust required against true airspeed curve, for a jet aeroplane, determines the speed for:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>maximum speed.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>maximum range.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>minimum power.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>maximum endurance.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bb4d0956-6dcf-f480-46ed-c8a84f136758",
+            "query": "<span style=\"display: block;\">Which of the following factors will lead to an increase of ground distance during a glide, while maintaining the appropriate minimum glide angle speed?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>headwind</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Increase of aircraft mass.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Decrease of aircraft mass.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Tailwind.</span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "fda23111-2317-e181-c26b-6b6f89cf49ac",
+            "query": "<span style=\"display: block;\">Refer to figure 032-07. Given: OAT: 32Â°C Pressure Altitude: 2000 ft RWY: 34 Wind: 100Â°/4 kts Take-off Mass: 4350 Ibs Heavy Duty Brakes: installed Other conditions as associated in the header of the chart. What is the Accelerate and Stop Distance under the conditions given?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>3767 ft</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>4400 ft</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>4092 ft</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>4720 ft</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bae576bc-c8dc-8f1d-d1bd-74145d270b8c",
+            "query": "<span style=\"display: block;\">Which one of the following statements concerning drift down is correct?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>The drift down procedure requires a minimum descent angle after an engine failure at cruising altitude.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>An engine failure at high cruising altitude will always result in a drift down, because it is not permitted to fly the same altitude with one engine inoperative as with all engines operating.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>The drift down procedure requires a minimum obstacle clearance of 35 ft.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>When determining the obstacle clearance during drift down, fuel dumping may be taken into account.</span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "ab961e75-9e8b-2ce3-2807-c0ee1f2d6012",
+            "query": "<span style=\"display: block;\">Refer to figure 032-06. Given: OAT: 24Â°C Pressure Altitude: 3000 ft RWY: 12LWind: 080Â°/12 kts Take-off mass: 3800 Ibs Other conditions as associated in the header of the graph. What is the take-off distance over a 50 ft obstacle?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>1420 ft</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>1700 ft</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>1600 ft</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>1950 ft</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "02e1fc29-27d8-d480-55c6-965b7886ea17",
+            "query": "<span style=\"display: block;\">Which of the following statements is correct?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>If any clearway is present it must be reduced to no greater distance than the stopway.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>The TODA is always longer than the TORA.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>The maximum clearway that can be used is limited to 50% of the TORA making the TODA 150% of the TORA.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>The TORA is 50% of the TODA as a declared distance making the TORA 1.5 times the TODA.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bffe01c0-92bb-da59-48eb-74ab55ce6d35",
+            "query": "<span style=\"display: block;\"><p>Refer to figures 032-05 You are planning a COMERCIAL flight in a single engine aeroplane. With regard to the landing chart determine the landing distance required at your planned destination airport. Given: OAT: 27Â°C Pressure altitude: 3000 ft Aeroplane mass: 2900 Ibs Tailwind component: 5 kts Flaps: Landing position (down) Runway: Dry grass 5 cm long.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>3040 ft.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>3200 ft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2600 ft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2850 ft.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "59f6cc75-331e-fdd8-0a15-d735b959daaa",
+            "query": "<span style=\"display: block;\"> Complete the following statement regarding the take-off performance of an aeroplane in performance class A. Following an engine failure before __ and allowing for a pilot reaction time of __ a correctly loaded aircraft must be capable of decelerating to a stop within the __.</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>V1: 2 seconds: Accelerate-Stop distance available (ASDA)</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>V1: 1 second: Accelerate-Stop distance available (ASDA)</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>V1: 2 seconds: Take-Off distance available (TODA)</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>V2: 3 seconds: Take-Off distance available (TODA)</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7724dc27-88c7-7fbf-97a6-85da8772a426",
+            "query": "<span style=\"display: block;\">Refer to figure 032-34. In the diagram you can see a take-off distance versus V, speed graph (AE = All Engines, EF = Engine Failure). Which speed corresponds to the balanced V1?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Speed \"A\"</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Speed \"B\"</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Speed \"C\"</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Speed \"D\"</span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "da4bcd33-d940-622b-d4de-16401dbb7147",
+            "query": "<span style=\"display: block;\">Which of the following speeds may vary if a stopway or clearway is available?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Vmcg</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>V1</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>Vmc</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>V2</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9085fba1-e436-9a7b-29b7-9308749cde72",
+            "query": "<span style=\"display: block;\"><p>The take-off distance of an aircraft is 600 m in standard atmosphere, no wind at 0 ft pressure-altitude. Using the following corrections: +20 m/ 1000 ft field elevation -5m/ kts headwind +10 m/ kts tailwind +15m/ % runway slope +5m/ Â°C deviation from standard temperature The take-off distance from an airport at 1000 ft elevation, temperature 17 Â°C, QNH 1013,25 hPa, 1% up-slope, 10 kts tailwind is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>780m</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>685m</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>755m</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>715m</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8229d242-eacf-2c47-e3d6-07ccb25d163a",
+            "query": "<span style=\"display: block;\"><p>Refer to figure 032-39. Given: Pressure Altitude (PA): 6000 ft PMC: ON Temperature OAT): 30°C A/C packs: AUTO Determine % N1 with the help of the attached table:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>95.7</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>96.9</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>96.1</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>97.1</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "14ac7482-faee-1949-8c77-ef165c3e9dab",
+            "query": "<span style=\"display: block;\"><p>Refer to figures 032-03 With regard to the take-off performance chart for the ingle engine aeroplane determine the take-off distance to a height of 50 ft. Given: OAT:- 7C pressure Altitude: 7000 ft Aeroplane Mass: 2950 Ibs Headwind component: 5 kts Flaps: approach setting Runway: Tarred and Dry</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1950 ft.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>2450 ft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2260 ft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1750 ft.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4a88660e-ab43-3b94-d853-0d7a78536cca",
+            "query": "<span style=\"display: block;\">With one or two engines inoperative the best specific range at high altitudes, compared to all engines operative cruise and assuming altitude remains constant, is:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>improved.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>reduced.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>not affected.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>first improved and later reduced.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ce9528dc-0e48-dcd3-ff7d-1e2e860bd20a",
+            "query": "<span style=\"display: block;\"><p>Maximum take-off mass: 4750 kg Airport elevation: 500 ft Obstacle elevation: 644 ft Distance from the end of the take-off distance to the obstacle: 2000m Temperature: ISA QNH: 1018 hPa SID: straight departure, no specific climb requirements published What is the minimum vertical clearance between aircraft and obstacle?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>122 ft</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>150 ft</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>168 ft</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>185&nbsp;ft</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "388ecd42-84a9-ffe1-2938-4b815a676147",
+            "query": "<span style=\"display: block;\">A constant headwind component:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>decreases the angle of climb.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>increases the maximum endurance.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>increases the angle of flight path during climb.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>increases the best rate of climb.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "839922f0-3dc9-e6fc-ea95-dc2abdc2f836",
+            "query": "<span style=\"display: block;\">Refer to figure 032-32. Refer to the attached figure and find the effective range if the cruising level is FL110, OAT = ISA, headwind = 20 kts and the power setting is 2300 RPM / full throttle:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>857 NM</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>775 NM</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>891 NM</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>805 NM</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c8f69d7e-f2d4-f938-8554-829cc9a52320",
+            "query": "<span style=\"display: block;\">In order to achieve the maximum rate of climb, aircraft should be flown at the indicated airspeed which:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>gives the best speed/drag ratio.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>gives maximum excess power.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>gives the best lift/drag ratio.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>gives the best thrust/drag ratio.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4d9712e2-af2b-9f2e-b802-07b1e3ebae86",
+            "query": "<span style=\"display: block;\">If the Take-off Mass of an aeroplane is brake energy limited a higher uphill slope would:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>increase the maximum mass for take-off.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>have no effect on the maximum mass for take-off.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>decrease the maximum mass for take-off.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>decrease the required take-off distance.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "07c0b5b0-02ed-1b03-49bf-43896e16c145",
+            "query": "<span style=\"display: block;\">Which of the following will decrease V1?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Inoperative anti-skid.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>Increased Take-off Mass.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Increased outside air temperature.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Inoperative flight management system.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b74d4503-6b5f-4118-cdef-6cd73611aa95",
+            "query": "<span style=\"display: block;\"><p>Considering the take-off decision speed V1, which of the following is correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>V, is sometimes greater than the rotation speed Vp.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>If an engine failure is recognized after reaching Vj, the take-off must be aborted.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>V1 may not be less than V2 min, the minimum take-off safety speed.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>If an engine failure is recognized before reaching V1, the take-off must be aborted.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "a41a01e1-fad6-a6ca-4ed1-f2d375cf2219",
+            "query": "<span style=\"display: block;\">The drift down requirements are based on:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>the obstacle clearance during a descent to the new cruising altitude if an engine has failed.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>the maximum flight path gradient during the descent.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the Landing Mass limit at the alternate.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the actual engine thrust output at the altitude of engine failure.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "72425c18-9b01-2231-0a7f-5cdfa1ef53d6",
+            "query": "<span style=\"display: block;\">If the Take-off Mass of an aeroplane is tire speed limited, downhill slope would:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>have no effect on the maximum mass for take-off.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>decrease the maximum mass for take-off.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>increase the required take-off distance.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>increase the maximum mass for take-off.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e6b88205-21d3-8c2a-b6de-b7b4f74630f0",
+            "query": "<span style=\"display: block;\">A runway is contaminated with 0.5 cm of wet snow. The flight manual of a light twin nevertheless authorises a landing in these conditions. The landing distance will be, in relation to that for a dry runway:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>increased</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>unchanged</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>reduced</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>substantially decreased</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1edeec27-a8b0-6c12-d6f2-5413716d8038",
+            "query": "<span style=\"display: block;\">Refer to figure 032-47. Given: TOW 320t Wind: 5 kt (tail) PA: 6000 ft OAT: 30Â°C Slope: -1% Use the given values and find speeds V1, VR, V2: (Rounding: to the next whole number) </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>V1 = 142 KIAS, VR = 158 KIAS, and V2 = 169 KIAS</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>V1 = 144 KIAS, VR= 156 KIAS, and V2 = 166 KIAS</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>V1 = 144 KIAS, VR = 160 KIAS, and V2 = 170 KIAS</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>V1 = 153 KIAS, VR = 166 KIAS, and V2 = 175 KIAS</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "75bbecfa-f00c-0dbb-4223-3e253398ba0d",
+            "query": "<span style=\"display: block;\">For a class B performance aircraft, VR must...</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>be equal to 1.2 Vs1</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>not be less than the greater of 1.1 Vmc or 1.2 Vs</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>be equal 1.1 Vmc</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>not be less than the greater of 1.10 Vs1 or 1.05 Vmc</span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "e0cac3fb-7706-6ca6-cca8-b8ce4ad1150c",
+            "query": "<span style=\"display: block;\">The angle of attack required to attain the maximum still-air range for a turbo-jet aeroplane is:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>the same as that for the maximum endurance.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>greater than that for the maximum lift to drag ratio.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>less than that for the maximum lift to drag ratio.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>the same as that giving zero induced drag.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a5867bad-ddd9-bed6-3532-4ebaf2fbf237",
+            "query": "<span style=\"display: block;\"> A Multi Engine Jet Aircraft with a passenger capacity of 4 and a random mass of less than 5700 kg belongs to which performance class?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Performance class B, because it has a passenger seating capacity below 9 and MTOM below 5700 kg.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Not defined</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Performance class A, because all jet aircraft belong to this performance class.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>Performance class C, because this is a special categorisation for jets with fewer than 9 passenger seats.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c3369989-4f83-55d2-6788-92f3bd443b25",
+            "query": "<span style=\"display: block;\">The flexible take-off mode: (1) Can be used only if the engines are recent (2) Reduces engine wear (3) Can be used in situations where take-off can be executed without the need for full engine power (4) Can only be used with an auto-throttle The combination that regroups all of the correct statements is:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>2,3 and4</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>1,2and3</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>2 and 3</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>1and4</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2be372d5-af36-0378-7d93-dcceba8c9c76",
+            "query": "<span style=\"display: block;\"><p>Refer to figure 032-06. Given: OAT: 24Â°C Pressure Altitude: 3000 ft RWY: 12L Wind: 080Â°/12 kts Take-off Mass: 3800 Ibs Other conditions as associated in the header of the graph. What is the Ground Roll Distance under the conditions given?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1350 ft</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1150 ft</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1550 ft</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1750 ft</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "293ca9c2-c84e-0e35-87a2-6efdbe5d022a",
+            "query": "<span style=\"display: block;\">The \"climb gradient\" is defined as the ratio of:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>rate of climb to true airspeed.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>true airspeed to rate of climb.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the increase of altitude to distance over ground expressed as a percentage.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the increase of altitude to horizontal air distance expressed as a percentage.</span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "b849c261-46d2-a051-277e-72169a9a0eec",
+            "query": "<span style=\"display: block;\">The take-off runway performance requirements for transport category aeroplanes are based upon:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>failure of critical engine or all engines operating which ever gives the greater take-off distance.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>one engine inoperative only.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>failure of critical engine only.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>all engines operating only.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b62db672-5b39-d956-c05e-e6cd4db92d34",
+            "query": "<span style=\"display: block;\">The long-range cruise speed is selected because:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>it is the best speed for economy.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>the higher speed to achieve 99% of maximum specific range in zero wind.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>it is the cruise-climb speed for one or two engines inoperative.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>it achieves the best specific range with a headwind.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e73e61eb-e8ec-4eb9-d51f-998a784eef1e",
+            "query": "<span style=\"display: block;\">During take-off the third segment begins:</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>when landing gear is fully retracted.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>when flap retraction is completed.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>when acceleration to flap retraction speed (final take-off speed - VFTO) is started.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>when acceleration starts from VLoF to V2.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "849abdd8-82ec-2477-95e4-9e72ce68d6c5",
+            "query": "<span style=\"display: block;\">What is the effect of tailwind on the time to climb to a given altitude?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>The time to climb does not change.</span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>The time to climb decreases.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>The time to climb increases.</span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>The effect on time to climb will depend on the aeroplane type.</span>",
+                    "format": "html"
+                }
+            ]
+        }
+    ]
+}

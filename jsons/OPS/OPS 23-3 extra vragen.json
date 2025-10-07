@@ -1,0 +1,198 @@
+{
+    "uuid": "b748732d-3d85-4994-b95f-2a7bc1fc8386",
+    "title": "OPS 23-3 extra vragen",
+    "questions": [
+        {
+            "uuid": "d3513bbb-dc20-e44b-6ae5-1119cd82b19a",
+            "query": "A foam filled fire extinguisher is recognized on which color and may be not used on what groups of materials?",
+            "format": "md",
+            "options": [
+                {
+                    "text": "A blue color and is should not be used on metal fires",
+                    "format": "md"
+                },
+                {
+                    "text": "A green color and it shall not be used on liquid fires",
+                    "format": "md"
+                },
+                {
+                    "text": "A yellow color and it shall not be used on electrical and metal fires",
+                    "format": "md",
+                    "correct": true
+                },
+                {
+                    "text": "A blue color and it shall not be used on metal and/or electrical fires",
+                    "format": "md"
+                }
+            ]
+        },
+        {
+            "uuid": "0103928f-1256-27db-85cb-0973f61f49ac",
+            "query": "Fuel jettisoning shall not be performed unless safety in jeopardy. Amongst other rules a minimum level shall be used when dumping fuel, what level or altitude had to be observed?",
+            "format": "md",
+            "options": [
+                {
+                    "text": "9000ft above build up areas, 6000ft over unpopulated areas, all AGL",
+                    "format": "md"
+                },
+                {
+                    "text": "9000ft AMSL outside build up areas, overhead build up areas ATC will inform the crew of the minimum altitude",
+                    "format": "md"
+                },
+                {
+                    "text": "6000ft AGL build up areas shall be avoided",
+                    "format": "md",
+                    "correct": true
+                },
+                {
+                    "text": "6000ft AMSL during emergencies build areas shall not be considered",
+                    "format": "md"
+                }
+            ]
+        },
+        {
+            "uuid": "d5210986-78ec-12af-ca57-6912f30a87b8",
+            "query": "During winter operations with heavy snow and ice accretion on the wings hold over time following de-icing shall approximately be:",
+            "format": "md",
+            "options": [
+                {
+                    "text": "45 minutes in snow with temperaturs below zero",
+                    "format": "md"
+                },
+                {
+                    "text": "15 minutes in freezing fog with temperatures below -10C",
+                    "format": "md"
+                },
+                {
+                    "text": "10 minutes regardless of the weather type",
+                    "format": "md"
+                },
+                {
+                    "text": "5 minutes in snow with temperatures between 0 - -10C",
+                    "format": "md",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "2531a326-5fc3-95ae-79c0-7e125eaa698f",
+            "query": "Wake turbulence categories may be defined based on MTOW and wing characteristics. What weights are used in the devidence of the groups A to G?",
+            "format": "md",
+            "options": [
+                {
+                    "text": "136.000kgs and 18600kgs",
+                    "format": "md",
+                    "correct": true
+                },
+                {
+                    "text": "136.000kgs, 18600kgs, 7200kgs",
+                    "format": "md"
+                },
+                {
+                    "text": "136.000kgs and 7000kgs",
+                    "format": "md"
+                },
+                {
+                    "text": "136.000kgs, 18600kgs, 7000kgs",
+                    "format": "md"
+                }
+            ]
+        },
+        {
+            "uuid": "ad4ab66f-36cd-82ce-6566-d166503d8d61",
+            "query": "Which documents outlines the specifications for the packing of Dangerous Goods.",
+            "format": "md",
+            "options": [
+                {
+                    "text": "Operator's Operations Manual",
+                    "format": "md"
+                },
+                {
+                    "text": "ICAO Technical instructions",
+                    "format": "md",
+                    "correct": true
+                },
+                {
+                    "text": "IATA Dangerous Goods Document",
+                    "format": "md"
+                },
+                {
+                    "text": "EASA Dangerous Goods Document",
+                    "format": "md"
+                }
+            ]
+        },
+        {
+            "uuid": "e8307f36-b1de-10dd-2db8-0f69ae9ca2eb",
+            "query": "Refer to the commercial aircraft operations. In which part of the operations manual would you find information about the policy and procedures of the use of TCAS  and ACAS ?",
+            "format": "md",
+            "options": [
+                {
+                    "text": "Part A",
+                    "format": "md",
+                    "correct": true
+                },
+                {
+                    "text": "Part B",
+                    "format": "md"
+                },
+                {
+                    "text": "Part C",
+                    "format": "md"
+                },
+                {
+                    "text": "Part D",
+                    "format": "md"
+                }
+            ]
+        },
+        {
+            "uuid": "14bdc395-c9ca-ec8b-087a-a81459ffdfd5",
+            "query": "Which items are allowed to be carried on board ?",
+            "format": "md",
+            "options": [
+                {
+                    "text": "Spare fuel cell cartridge , safety matches on one's person , 70% or less alcoholic beverages.s.",
+                    "format": "md",
+                    "correct": true
+                },
+                {
+                    "text": "Organic peroxides , carbon dioxide , less then 2.5 kg dry ice.",
+                    "format": "md"
+                },
+                {
+                    "text": "Strike anywhere matches , smoke hood with oxygen supply , permeation devices for calibrating air quality monitoring equipment.",
+                    "format": "md"
+                },
+                {
+                    "text": "Spare fuel cell cartridge , mercury thermometer , liquid oxygen.",
+                    "format": "md"
+                }
+            ]
+        },
+        {
+            "uuid": "d5ff7797-7c3e-42c1-780e-9e4109c36f2a",
+            "query": "When leaving the MNPS oceanic control area , the pilot has to :",
+            "format": "md",
+            "options": [
+                {
+                    "text": "Take any Mach number.",
+                    "format": "md"
+                },
+                {
+                    "text": "Take the Mach number specified in the initial flight plan.",
+                    "format": "md"
+                },
+                {
+                    "text": "Take the Mach number provided for this type of flight by his airline.",
+                    "format": "md"
+                },
+                {
+                    "text": "Maintain the Mach number previously assigned up to the last position shown in the oceanic clearnance.",
+                    "format": "md",
+                    "correct": true
+                }
+            ]
+        }
+    ]
+}
